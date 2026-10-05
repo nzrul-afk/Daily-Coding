@@ -1,29 +1,37 @@
-# 🚀 100 Days of OOP & DevSecOps Challenge
+# 🚀 100 Days of Code & DevSecOps Journey
 
-Welcome to my daily coding journal! I'm Nasrul, an IT student and aspiring **DevSecOps Engineer**. 
-This repository is my personal commitment to master **Object-Oriented Programming (OOP)** in Python, build solid logic, and maintain a daily green contribution graph! 🟩
+Welcome to my daily engineering journal! 👋 I'm **Nasrul**, an IT student with a massive vision to become a **Professional DevSecOps Engineer**. 
+
+This repository is my digital playground and proof of work. It’s a daily commitment to level up my skills across the vast landscape of IT—not just one language, and not just one concept. Here, you'll find my daily grinds, late-night debugging sessions, and technical breakthroughs. 🟩
+
+## 🎯 What to Expect in This Journey?
+A true DevSecOps Engineer connects the dots between development, operations, and security. Therefore, my daily challenges will evolve and cover:
+- 🐍 **Software Engineering:** Object-Oriented Programming, Data Structures, Algorithms (Python, and more to come).
+- 🐧 **System Administration:** Linux CLI mastery, Bash scripting, and OS fundamentals.
+- ⚙️ **Operations & Automations:** Managing systems, writing automation scripts, and exploring CI/CD concepts.
+- 🔐 **Security Mindset:** Exploring CTF challenges (like OverTheWire), secure coding practices, and vulnerability tracking.
+
+*"Consistency is the ultimate weapon of an engineer. One commit at a time."* - NasrulDev
+
+---
+
+## 🏆 The Journey Tracker
+
+| Day | Date | Focus Area | Topic & Achievements | Status |
+|:---:|:---|:---|:---|:---:|
+| **01** | Day 1 | 🐍 Python OOP | **The Foundation:** Built Class structures, `__init__` logic, Default Parameters, and manipulated object states using array operations. | ✅ |
+| **02** | Day 2 | ⏳ *Locked* | *Consistency is brewing...* | 🔒 |
+| **03** | Day 3 | ⏳ *Locked* | *Consistency is brewing...* | 🔒 |
 
 ---
 
-## 🏆 Journey Tracker
+## 📁 Repository Log
 
-| Day | Topic | Status |
-|:---:|:---|:---:|
-| **01** | OOP Basics: Class, `__init__`, Instance Variables & Methods | ✅ Completed |
-| **02** | *Locked (Coming Soon)* | 🔒 |
-| **03** | *Locked (Coming Soon)* | 🔒 |
-
----
-
-## 📁 Day 1: OOP Basics (The Foundation)
-In my first day, I built three miniature systems to solidify the foundation of creating classes and manipulating object states.
-
-- **[Task 1: Player Profile System](day_01_task1_player.py)**
-  *Concept:* Object initialization, instance variables, and modifying state via `add()` method.
-- **[Task 2: Coffee Order](day_01_task2_coffee.py)**
-  *Concept:* Implementing Python Default Parameters in Object Creation.
-- **[Task 3: Library Borrowing Logic](day_01_task3_book.py)**
-  *Concept:* Advanced state manipulation. Created a library system using arrays (`list`) to track, add (`append`), and remove books from a user's inventory.
+### 📌 Day 1: Mastering OOP Foundation (Python)
+Kicking off the journey by solidifying how data and behavior are bound together in memory.
+- **[Task 1: Player Profile System](day_01_task1_player.py)** - Initialized objects and created a method to manipulate player states (`add` level logic).
+- **[Task 2: Coffee Order](day_01_task2_coffee.py)** - Implemented Python Default Parameters to handle missing inputs gracefully.
+- **[Task 3: Library Borrowing Logic](day_01_task3_book.py)** - Engineered a fully functional library system utilizing lists (`append` & `remove`) to track borrowed items inside an object.
 
 ---
-*"Consistency is the ultimate weapon of an engineer."* - NasrulDev
+*Feel free to explore the code! If you're a recruiter, engineer, or fellow learner, let's connect and build great things together.* 🚀
