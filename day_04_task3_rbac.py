@@ -26,7 +26,7 @@ class AuthSystem:
                 failed_login=0
                 if i.role == "admin":
                     print("selamat datang admin")
-                    break
+                    bree
                 else:
                     print("selamar datang")
 
