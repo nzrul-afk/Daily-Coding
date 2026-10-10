@@ -1,0 +1,8 @@
+[INFO] System started.
+[ERROR] Missing config file!
+[DATA] User login from IP: 192.168.1.15
+[CORRUPT] @#(*$&(*@#&$
+[DATA] Secret token leaked: FLAG{devsecops_regex_master}
+[DEBUG] Checking network...
+[DATA] Admin access from IP: 10.0.0.99
+[CORRUPT] null byte exception 0x00
