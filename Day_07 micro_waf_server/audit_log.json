@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "192.168.1.10",
+    "method": "GET",
+    "path": "/",
+    "status_code": 200,
+    "waf_score": 0,
+    "triggers": []
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "10.0.0.5",
+    "method": "GET",
+    "path": "/products?id=1' OR 1=1 --",
+    "status_code": 403,
+    "waf_score": 5,
+    "triggers": [
+      "SQL Injection"
+    ]
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "10.0.0.6",
+    "method": "GET",
+    "path": "/images/../../etc/passwd",
+    "status_code": 403,
+    "waf_score": 5,
+    "triggers": [
+      "Path Traversal"
+    ]
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "10.0.0.7",
+    "method": "POST",
+    "path": "/comment",
+    "status_code": 403,
+    "waf_score": 5,
+    "triggers": [
+      "Cross-Site Scripting (XSS)"
+    ]
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "172.16.0.99",
+    "method": "GET",
+    "path": "/health",
+    "status_code": 200,
+    "waf_score": 0,
+    "triggers": []
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "172.16.0.99",
+    "method": "GET",
+    "path": "/health",
+    "status_code": 200,
+    "waf_score": 0,
+    "triggers": []
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "172.16.0.99",
+    "method": "GET",
+    "path": "/health",
+    "status_code": 200,
+    "waf_score": 0,
+    "triggers": []
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "172.16.0.99",
+    "method": "GET",
+    "path": "/health",
+    "status_code": 429,
+    "waf_score": 0,
+    "triggers": [
+      "Rate Limit Exceeded"
+    ]
+  },
+  {
+    "timestamp": "2026-10-11 12:38:21",
+    "client_ip": "172.16.0.99",
+    "method": "GET",
+    "path": "/health",
+    "status_code": 429,
+    "waf_score": 0,
+    "triggers": [
+      "Rate Limit Exceeded"
+    ]
+  }
+]
