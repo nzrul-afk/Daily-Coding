@@ -1,0 +1,86 @@
+[2026-10-12 07:24:27] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:27] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:27] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:27] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:34] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:34] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:34] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:34] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:35] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:35] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:35] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:35] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:35] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:35] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:35] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:35] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:35] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:35] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:35] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:35] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:36] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:36] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:36] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:36] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:36] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:36] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:36] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:36] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:36] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:36] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:36] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:36] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:36] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:36] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:36] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:36] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:37] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:37] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:37] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:37] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:37] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:37] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:37] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:37] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:37] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:37] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:37] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:37] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:38] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:38] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:38] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:38] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:38] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:38] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:38] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:38] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 07:24:38] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 07:24:38] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 07:24:38] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 07:24:38] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 11:22:52] [INFO] [SecurityLogger] Server berhasil dinyalakan
+[2026-10-12 11:22:52] [WARNING] [SecurityLogger] Ada ip mencurigakan
+[2026-10-12 11:22:52] [ERROR] [SecurityLogger] Koneksi gagal
+[2026-10-12 11:22:52] [CRITICAL] [SecurityLogger] Database jebol
+[2026-10-12 11:22:52] [INFO] [SecurityLogger] Memulai recon pada target: google.com
+[2026-10-12 11:22:52] [INFO] [SecurityLogger] Menjalankan ICMP Ping probe ke google.com...
+[2026-10-12 11:27:34] [INFO] [SecurityLogger] Memulai tes probing ke 127.0.0.1...
+[2026-10-12 11:27:35] [INFO] [SecurityLogger] Ping sukses: Host UP
+[2026-10-12 11:32:19] [INFO] [SecurityLogger] Memulai recon pada target: google.com
+[2026-10-12 11:32:19] [INFO] [SecurityLogger] Menjalankan ICMP Ping probe ke google.com...
+[2026-10-12 11:32:20] [INFO] [SecurityLogger] Ping sukses: Host UP
+[2026-10-12 11:32:20] [INFO] [SecurityLogger] Menjalankan lookup DNS probe ke google.com...
+[2026-10-12 11:32:23] [INFO] [SecurityLogger] DNS lookup sukses
+[2026-10-12 11:32:23] [INFO] [SecurityLogger] Hasil disimpan ke report.json
+[2026-10-12 11:34:06] [INFO] [SecurityLogger] Memulai recon pada target: google.com
+[2026-10-12 11:34:06] [INFO] [SecurityLogger] Menjalankan ICMP Ping probe ke google.com...
+[2026-10-12 11:34:07] [INFO] [SecurityLogger] Ping sukses: Host UP
+[2026-10-12 11:34:07] [INFO] [SecurityLogger] Menjalankan lookup DNS probe ke google.com...
+[2026-10-12 11:34:09] [INFO] [SecurityLogger] DNS lookup sukses
+[2026-10-12 11:34:09] [INFO] [SecurityLogger] Hasil disimpan ke report.json
+[2026-10-12 11:35:01] [INFO] [SecurityLogger] Memulai recon pada target: google.com
+[2026-10-12 11:35:01] [INFO] [SecurityLogger] Menjalankan ICMP Ping probe ke google.com...
+[2026-10-12 11:35:03] [INFO] [SecurityLogger] Ping sukses: Host UP
+[2026-10-12 11:35:03] [INFO] [SecurityLogger] Menjalankan lookup DNS probe ke google.com...
+[2026-10-12 11:35:05] [INFO] [SecurityLogger] DNS lookup sukses
+[2026-10-12 11:35:05] [INFO] [SecurityLogger] Hasil disimpan ke report.json
