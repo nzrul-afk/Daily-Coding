@@ -1,0 +1,14 @@
+{
+  "app.py": {
+    "sha256": "a1899feabd8256fd3b8f6497f2777b9168a8bf81d293bc01ae091337e6dcf86c",
+    "size_bytes": 15
+  },
+  "config.ini": {
+    "sha256": "c8db4008e429008feb085544acb96b5d301f85e8f866b7f836766a31f826a236",
+    "size_bytes": 25
+  },
+  "index.html": {
+    "sha256": "44faa1790a5c05a5194553a19d4617ab727b916bc1d738b4331ad9ead7b08327",
+    "size_bytes": 23
+  }
+}

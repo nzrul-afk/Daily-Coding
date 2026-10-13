@@ -3,8 +3,6 @@ class WAFengine:
     def __init__(self, score_threshold=5):
         self.score_threshold=score_threshold
         
-        
-        # Format: (Pattern, Rule Name, Score)
         self.rules = [
             (r'(\.\./|\.\.\\)', "Path Traversal", 5),
             (r"(\b(UNION|SELECT|INSERT|DELETE|DROP)\b|--|['\"]\s*OR\b|\bOR\b\s+[\w\d]+\s*=\s*[\w\d]+)", "SQL Injection", 5),
