@@ -14,20 +14,18 @@ class EntropyScanner:
         found=[]
         import re
         for index, line in enumerate(content.splitlines(), start=1):
-            # Abaikan baris komentar atau baris import
+
             stripped = line.strip()
             if stripped.startswith("#") or stripped.startswith("import ") or stripped.startswith("from "):
                 continue
 
-            # Cari teks yang ada di dalam tanda petik (string literal)
             string_literals = re.findall(r'["\']([^"\']+)["\']', line)
 
             for clean_word in string_literals:
-                # Abaikan kalimat biasa yang mengandung spasi
+
                 if " " in clean_word:
                     continue
 
-                # Abaikan path import biasa atau variabel env
                 if clean_word.isupper() and "_" in clean_word:
                     continue
 

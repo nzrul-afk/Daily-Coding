@@ -1,0 +1,24 @@
+{
+  "host": "scanme.nmap.org",
+  "total_open": 2,
+  "is_compliant": true,
+  "findings": {
+    "LOW": [
+      {
+        "port": 80,
+        "service": "HTTP",
+        "description": "Web HTTP biasa. Disarankan redirect ke HTTPS (port 443)."
+      }
+    ],
+    "MEDIUM": [
+      {
+        "port": 22,
+        "service": "SSH",
+        "description": "SSH terbuka ke publik. Sebaiknya batasi akses lewat VPN/Bastion."
+      }
+    ],
+    "HIGH": [],
+    "CRITICAL": []
+  },
+  "recommendations": []
+}
