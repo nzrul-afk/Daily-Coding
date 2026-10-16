@@ -1,0 +1,49 @@
+{
+  "hostname": "google.com",
+  "security_grade": "D",
+  "is_compliant": false,
+  "ssl_audit": {
+    "valid": true,
+    "hostname": "google.com",
+    "days_remaining": 66,
+    "is_expired": false,
+    "expires_on": "2026-12-21 18:38:00+00:00",
+    "issuer": "Google Trust Services",
+    "san_count": 65
+  },
+  "header_audit": {
+    "valid": true,
+    "hostname": "google.com",
+    "status_code": 301,
+    "score_percent": 25.0,
+    "score_summary": "1/4 Terpasang",
+    "present_headers": [
+      {
+        "header": "X-Frame-Options",
+        "value": "SAMEORIGIN",
+        "description": "Mencegah pembajakan klik (Clickjacking)."
+      }
+    ],
+    "missing_headers": [
+      {
+        "header": "Strict-Transport-Security",
+        "description": "Mencegah downgrade serangan SSL Stripping."
+      },
+      {
+        "header": "Content-Security-Policy",
+        "description": "Mencegah injeksi script berbahaya (XSS)."
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "description": "Mencegah MIME-sniffing celah file palsu."
+      }
+    ],
+    "server_banner": "gws",
+    "powered_by": null
+  },
+  "recommendations": [
+    "Pasang header 'Strict-Transport-Security' di konfigurasi web server.",
+    "Pasang header 'Content-Security-Policy' di konfigurasi web server.",
+    "Pasang header 'X-Content-Type-Options' di konfigurasi web server."
+  ]
+}
