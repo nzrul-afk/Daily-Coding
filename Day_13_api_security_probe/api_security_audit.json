@@ -1,0 +1,45 @@
+{
+  "endpoint": "/post",
+  "methods_tested": 7,
+  "allowed_methods": [
+    "POST",
+    "OPTIONS"
+  ],
+  "details": [
+    {
+      "method": "GET",
+      "status_code": 405,
+      "elapsed_ms": 1173.05
+    },
+    {
+      "method": "POST",
+      "status_code": 200,
+      "elapsed_ms": 263.68
+    },
+    {
+      "method": "PUT",
+      "status_code": 405,
+      "elapsed_ms": 258.91
+    },
+    {
+      "method": "DELETE",
+      "status_code": 405,
+      "elapsed_ms": 261.81
+    },
+    {
+      "method": "PATCH",
+      "status_code": 405,
+      "elapsed_ms": 266.08
+    },
+    {
+      "method": "HEAD",
+      "status_code": 405,
+      "elapsed_ms": 259.43
+    },
+    {
+      "method": "OPTIONS",
+      "status_code": 200,
+      "elapsed_ms": 277.74
+    }
+  ]
+}
