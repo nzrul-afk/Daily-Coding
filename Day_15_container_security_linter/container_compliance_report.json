@@ -1,0 +1,41 @@
+{
+  "is_passed": false,
+  "gate_status": "BLOCKED",
+  "total_instructions": 7,
+  "summary": {
+    "total_findings": 4,
+    "high": 2,
+    "medium": 1,
+    "low": 1
+  },
+  "findings": [
+    {
+      "rule_id": "CIS-DI-001",
+      "severity": "MEDIUM",
+      "line_number": 3,
+      "instruction": "FROM",
+      "message": "Hindari tag :latest atau image tanpa versi ('python:latest'). Gunakan versi spesifik."
+    },
+    {
+      "rule_id": "CIS-DI-002",
+      "severity": "HIGH",
+      "line_number": 7,
+      "instruction": "ENV",
+      "message": "Ditemukan potensi secret/kredensial ('PASSWORD') di dalam ENV. Gunakan Secret Management!"
+    },
+    {
+      "rule_id": "CIS-DI-003",
+      "severity": "HIGH",
+      "line_number": null,
+      "instruction": "USER",
+      "message": "Instruksi 'USER' non-root tidak ditemukan! Container berjalan sebagai root (berbahaya)."
+    },
+    {
+      "rule_id": "CIS-DI-004",
+      "severity": "LOW",
+      "line_number": null,
+      "instruction": "HEALTHCHECK",
+      "message": "Instruksi 'HEALTHCHECK' tidak ditemukan. Tambahkan agar status container dapat dipantau."
+    }
+  ]
+}
