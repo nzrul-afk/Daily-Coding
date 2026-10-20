@@ -1,0 +1,38 @@
+{
+  "is_passed": false,
+  "gate_status": "BLOCKED",
+  "total_documents": 2,
+  "summary": {
+    "total_findings": 4,
+    "critical": 1,
+    "high": 2,
+    "medium": 1,
+    "low": 0
+  },
+  "findings": [
+    {
+      "rule_id": "PSS-001",
+      "severity": "CRITICAL",
+      "target": "Deployment/payment-gateway:gateway-container",
+      "message": "Container berjalan dalam mode PRIVILEGED! Ini memberikan akses penuh ke kernel host."
+    },
+    {
+      "rule_id": "PSS-002",
+      "severity": "HIGH",
+      "target": "Deployment/payment-gateway:gateway-container",
+      "message": "readOnlyRootFilesystem tidak diaktifkan. Filesystem container dapat dimodifikasi oleh penyerang."
+    },
+    {
+      "rule_id": "PSS-003",
+      "severity": "HIGH",
+      "target": "Deployment/payment-gateway:gateway-container",
+      "message": "runAsNonRoot tidak diset True. Container berpotensi berjalan sebagai root user (UID 0)."
+    },
+    {
+      "rule_id": "PSS-004",
+      "severity": "MEDIUM",
+      "target": "Deployment/payment-gateway:gateway-container",
+      "message": "Resource limits (cpu/memory) tidak lengkap. Berisiko menyebabkan resource starvation (OOMKilled)."
+    }
+  ]
+}
