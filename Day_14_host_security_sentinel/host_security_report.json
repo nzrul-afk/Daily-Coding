@@ -4,25 +4,26 @@
     "is_healthy": false,
     "status": "WARNING",
     "alerts": [
-      "RAM High: 95.2%"
+      "RAM High: 94.6%",
+      "Disk High: 90.4%"
     ],
     "metrics": {
       "cpu": {
-        "usage_percent": 12.3,
+        "usage_percent": 70.3,
         "core_count": 8,
         "is_alert": false
       },
       "ram": {
         "total_gb": 7.28,
-        "used_gb": 6.93,
-        "percent": 95.2,
+        "used_gb": 6.89,
+        "percent": 94.6,
         "is_alert": true
       },
       "disk": {
         "total_gb": 144.67,
-        "used_gb": 125.73,
-        "percent": 86.9,
-        "is_alert": false
+        "used_gb": 130.82,
+        "percent": 90.4,
+        "is_alert": true
       }
     }
   },
@@ -32,34 +33,34 @@
     "suspicious_processes": [],
     "top_memory_processes": [
       {
-        "pid": 9168,
+        "pid": 5604,
         "name": "Code.exe",
-        "memory_mb": 614.22,
-        "memory_percent": 8.24
+        "memory_mb": 293.14,
+        "memory_percent": 3.93
       },
       {
-        "pid": 9660,
+        "pid": 21696,
+        "name": "RobloxPlayerBeta.exe",
+        "memory_mb": 279.54,
+        "memory_percent": 3.75
+      },
+      {
+        "pid": 19980,
         "name": "Hermes.exe",
-        "memory_mb": 409.86,
-        "memory_percent": 5.5
+        "memory_mb": 250.21,
+        "memory_percent": 3.36
       },
       {
-        "pid": 5380,
-        "name": "python.exe",
-        "memory_mb": 362.62,
-        "memory_percent": 4.86
+        "pid": 18796,
+        "name": "Spotify.exe",
+        "memory_mb": 220.68,
+        "memory_percent": 2.96
       },
       {
-        "pid": 3268,
-        "name": "Code.exe",
-        "memory_mb": 360.97,
-        "memory_percent": 4.84
-      },
-      {
-        "pid": 10028,
-        "name": "Code.exe",
-        "memory_mb": 243.82,
-        "memory_percent": 3.27
+        "pid": 3808,
+        "name": "msedgewebview2.exe",
+        "memory_mb": 197.07,
+        "memory_percent": 2.64
       }
     ]
   },
@@ -69,44 +70,92 @@
     "listening_ports": [
       {
         "ip": "0.0.0.0",
-        "port": 49667,
-        "pid": 2872,
+        "port": 5040,
+        "pid": 10036,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 7768,
+        "pid": 19520,
+        "is_risky": false
+      },
+      {
+        "ip": "192.168.18.172",
+        "port": 139,
+        "pid": 4,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 54168,
+        "pid": 10920,
         "is_risky": false
       },
       {
         "ip": "0.0.0.0",
         "port": 49668,
-        "pid": 4072,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 49670,
-        "pid": 1408,
+        "pid": 4056,
         "is_risky": false
       },
       {
         "ip": "127.0.0.1",
-        "port": 49258,
-        "pid": 14984,
+        "port": 64648,
+        "pid": 21692,
         "is_risky": false
       },
       {
-        "ip": "::",
-        "port": 49667,
-        "pid": 2872,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 49664,
-        "pid": 1432,
+        "ip": "0.0.0.0",
+        "port": 57621,
+        "pid": 19520,
         "is_risky": false
       },
       {
         "ip": "127.0.0.1",
-        "port": 61265,
-        "pid": 10028,
+        "port": 59371,
+        "pid": 19104,
+        "is_risky": false
+      },
+      {
+        "ip": "::1",
+        "port": 64607,
+        "pid": 23520,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 24830,
+        "pid": 4896,
+        "is_risky": false
+      },
+      {
+        "ip": "::",
+        "port": 135,
+        "pid": 1748,
+        "is_risky": false
+      },
+      {
+        "ip": "0.0.0.0",
+        "port": 445,
+        "pid": 4,
+        "is_risky": true
+      },
+      {
+        "ip": "::",
+        "port": 49668,
+        "pid": 4056,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 12072,
+        "pid": 4872,
+        "is_risky": false
+      },
+      {
+        "ip": "0.0.0.0",
+        "port": 20128,
+        "pid": 14440,
         "is_risky": false
       },
       {
@@ -117,98 +166,62 @@
       },
       {
         "ip": "127.0.0.1",
-        "port": 52980,
-        "pid": 5380,
+        "port": 64693,
+        "pid": 23520,
         "is_risky": false
       },
       {
-        "ip": "127.0.0.1",
-        "port": 24830,
-        "pid": 4904,
-        "is_risky": false
-      },
-      {
-        "ip": "::1",
-        "port": 56761,
-        "pid": 17008,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 20128,
-        "pid": 9084,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 445,
-        "pid": 4,
-        "is_risky": true
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 5040,
-        "pid": 9888,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 7680,
-        "pid": 12956,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 49668,
-        "pid": 4072,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 49666,
-        "pid": 2140,
-        "is_risky": false
-      },
-      {
-        "ip": "127.0.0.1",
-        "port": 56804,
-        "pid": 17008,
-        "is_risky": false
-      },
-      {
-        "ip": "192.168.1.11",
+        "ip": "172.24.32.1",
         "port": 139,
         "pid": 4,
         "is_risky": false
       },
       {
-        "ip": "127.0.0.1",
-        "port": 24780,
-        "pid": 10028,
-        "is_risky": false
-      },
-      {
-        "ip": "127.0.0.1",
-        "port": 55759,
-        "pid": 9168,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 135,
-        "pid": 1756,
-        "is_risky": false
-      },
-      {
-        "ip": "::",
-        "port": 49666,
-        "pid": 2140,
+        "ip": "0.0.0.0",
+        "port": 49667,
+        "pid": 2988,
         "is_risky": false
       },
       {
         "ip": "::",
         "port": 49665,
-        "pid": 1264,
+        "pid": 1288,
+        "is_risky": false
+      },
+      {
+        "ip": "::",
+        "port": 49667,
+        "pid": 2988,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 24212,
+        "pid": 23396,
+        "is_risky": false
+      },
+      {
+        "ip": "::",
+        "port": 49666,
+        "pid": 2080,
+        "is_risky": false
+      },
+      {
+        "ip": "0.0.0.0",
+        "port": 49670,
+        "pid": 1412,
+        "is_risky": false
+      },
+      {
+        "ip": "::",
+        "port": 49670,
+        "pid": 1412,
+        "is_risky": false
+      },
+      {
+        "ip": "0.0.0.0",
+        "port": 135,
+        "pid": 1748,
         "is_risky": false
       },
       {
@@ -218,58 +231,46 @@
         "is_risky": false
       },
       {
+        "ip": "::",
+        "port": 49664,
+        "pid": 1432,
+        "is_risky": false
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 64695,
+        "pid": 23520,
+        "is_risky": false
+      },
+      {
         "ip": "::1",
         "port": 42050,
-        "pid": 1596,
-        "is_risky": false
-      },
-      {
-        "ip": "127.0.0.1",
-        "port": 56802,
-        "pid": 17008,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 135,
-        "pid": 1756,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 445,
-        "pid": 4,
-        "is_risky": true
-      },
-      {
-        "ip": "127.0.0.1",
-        "port": 59362,
-        "pid": 10236,
+        "pid": 13396,
         "is_risky": false
       },
       {
         "ip": "0.0.0.0",
         "port": 49665,
-        "pid": 1264,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 49670,
-        "pid": 1408,
-        "is_risky": false
-      },
-      {
-        "ip": "0.0.0.0",
-        "port": 7680,
-        "pid": 12956,
+        "pid": 1288,
         "is_risky": false
       },
       {
         "ip": "127.0.0.1",
-        "port": 12072,
-        "pid": 4912,
+        "port": 61309,
+        "pid": 2120,
         "is_risky": false
+      },
+      {
+        "ip": "0.0.0.0",
+        "port": 49666,
+        "pid": 2080,
+        "is_risky": false
+      },
+      {
+        "ip": "::",
+        "port": 445,
+        "pid": 4,
+        "is_risky": true
       }
     ]
   }

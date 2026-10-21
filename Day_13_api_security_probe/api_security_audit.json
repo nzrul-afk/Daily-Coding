@@ -9,37 +9,37 @@
     {
       "method": "GET",
       "status_code": 405,
-      "elapsed_ms": 1173.05
+      "elapsed_ms": 2775.1
     },
     {
       "method": "POST",
       "status_code": 200,
-      "elapsed_ms": 263.68
+      "elapsed_ms": 272.34
     },
     {
       "method": "PUT",
       "status_code": 405,
-      "elapsed_ms": 258.91
+      "elapsed_ms": 266.58
     },
     {
       "method": "DELETE",
       "status_code": 405,
-      "elapsed_ms": 261.81
+      "elapsed_ms": 281.98
     },
     {
       "method": "PATCH",
       "status_code": 405,
-      "elapsed_ms": 266.08
+      "elapsed_ms": 297.35
     },
     {
       "method": "HEAD",
       "status_code": 405,
-      "elapsed_ms": 259.43
+      "elapsed_ms": 311.05
     },
     {
       "method": "OPTIONS",
       "status_code": 200,
-      "elapsed_ms": 277.74
+      "elapsed_ms": 1035.57
     }
   ]
 }

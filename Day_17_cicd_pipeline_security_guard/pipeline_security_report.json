@@ -1,0 +1,41 @@
+{
+  "workflow_name": "Production-Release-Pipeline",
+  "is_passed": false,
+  "gate_status": "BLOCKED",
+  "security_grade": "C",
+  "security_score": 10,
+  "total_jobs": 1,
+  "total_steps": 3,
+  "summary": {
+    "total_findings": 4,
+    "critical": 1,
+    "high": 2,
+    "medium": 1
+  },
+  "findings": [
+    {
+      "rule_id": "GHA-003",
+      "severity": "MEDIUM",
+      "target": "Workflow:Permissions",
+      "message": "Workflow tidak membatasi permissions global atau menggunakan write-all. Berisiko privilege escalation."
+    },
+    {
+      "rule_id": "GHA-001",
+      "severity": "HIGH",
+      "target": "build-and-deploy:Checkout Code Tanpa Pinning",
+      "message": "Action 'actions/checkout@v3' tidak menggunakan Full Commit SHA pinning. Rentan Supply Chain Attack."
+    },
+    {
+      "rule_id": "GHA-002",
+      "severity": "CRITICAL",
+      "target": "build-and-deploy:Eksekusi Input User Berbahaya",
+      "message": "Terdeteksi potensi Command Injection pada expression 'github.event.pull_request.title' di dalam perintah run shell."
+    },
+    {
+      "rule_id": "GHA-001",
+      "severity": "HIGH",
+      "target": "build-and-deploy:Setup Node Unpinned",
+      "message": "Action 'actions/setup-node@v2' tidak menggunakan Full Commit SHA pinning. Rentan Supply Chain Attack."
+    }
+  ]
+}
