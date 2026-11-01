@@ -1,6 +1,6 @@
 import json
-from task1_ssl_watchdog import SLLWatchDog
-from task2_header_inspector import HeaderInspector
+from ssl_watchdog import SLLWatchDog
+from header_inspector import HeaderInspector
 from pathlib import Path
 
 class DomainSecuritygate:

@@ -1,7 +1,7 @@
 import json
 import psutil
-from task1_resource_sentinel import ResourceSentinel
-from task2_process_hunter import ProsessHunter
+from resource_sentinel import ResourceSentinel
+from process_hunter import ProsessHunter
 
 class HostSecurityAuditor:
     def __init__(self):

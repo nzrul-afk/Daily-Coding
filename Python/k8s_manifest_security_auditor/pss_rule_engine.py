@@ -1,4 +1,4 @@
-from task1_manifest_parser   import K8sManifestParser
+from manifest_parser import K8sManifestParser
 class PSSRuleEngine:
     def audit_manifests(self, parsed_docs: list) -> list:
         findings = []

@@ -81,7 +81,7 @@ class AttackSurfaceProfile:
 
 if __name__ == "__main__":
     from pathlib import Path
-    from task2_concurrent_engine import ConcurrentPortScanner
+    from concurrent_engine import ConcurrentPortScanner
     current_folder= Path(__file__).resolve().parent
     target = "scanme.nmap.org"
     print("=" * 60)

@@ -1,6 +1,6 @@
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from task1_socket_probe import SocketProbe
+from socket_probe import SocketProbe
 
 class ConcurrentPortScanner:
     def __init__(self, max_workers: int = 50):

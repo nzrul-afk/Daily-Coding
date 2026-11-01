@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
-from task1_dockerfile_parser import DockerfileParser
-from task2_security_rules import SecurityRulesEngine
+from dockerfile_parser import DockerfileParser
+from security_rules import SecurityRulesEngine
 class ContainerComplianceGate:
     def __init__(self):
         self.parser = DockerfileParser()

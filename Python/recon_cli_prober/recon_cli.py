@@ -1,7 +1,7 @@
 import argparse
 import json
-from task1_logger import SecurityLogger
-from task2_prober import SystemProber
+from logger import SecurityLogger
+from prober import SystemProber
 
 parser = argparse.ArgumentParser(description="Recon Tools")
 parser.add_argument("-a", "--target", required=True, help="Ip atau domain target" )

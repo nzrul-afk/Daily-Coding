@@ -1,5 +1,5 @@
 import re
-from task1_workflow_parser import GithubWorkFlowParser
+from workflow_parser import GithubWorkFlowParser
 
 class SupplyChainRuleEngine:
     def __init__(self):

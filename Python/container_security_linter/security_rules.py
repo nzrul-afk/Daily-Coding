@@ -1,4 +1,4 @@
-from task1_dockerfile_parser import DockerfileParser
+from dockerfile_parser import DockerfileParser
 class SecurityRulesEngine:
     def __init__(self):
         self.secret_keywords = ["KEY", "SECRET", "PASSWORD", "TOKEN", "PASSWD"]

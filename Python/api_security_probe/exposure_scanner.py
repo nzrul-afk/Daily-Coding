@@ -1,4 +1,4 @@
-from task1_session_prober import APISessionProber
+from session_prober import APISessionProber
 class ExposureScanner:
     def __init__(self, prober: APISessionProber):
         self.prober = prober

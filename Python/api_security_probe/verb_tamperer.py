@@ -1,5 +1,5 @@
 import json
-from task1_session_prober import APISessionProber
+from session_prober import APISessionProber
 
 class VerbTamperer:
     def __init__(self, prober: APISessionProber):

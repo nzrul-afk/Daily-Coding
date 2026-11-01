@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from task1_baseline import BaseLineGenerator
+from baseline import BaseLineGenerator
 class IntegrityDetector:
 
     def __init__(self, baseline_path="baseline.json"):
