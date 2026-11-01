@@ -1,4 +1,4 @@
-public class day_03_extra_java_uas {
+public class extra_java_uas {
     public static void main(String[] args) {
         System.out.println("=== SIMULASI UAS JAVA: THE FINAL BOSS ===\n");
         

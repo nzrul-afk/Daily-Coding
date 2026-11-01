@@ -1,5 +1,5 @@
-from day_10_task1_matcher import SecretMatcher
-from day_10_task2_entropy import EntropyScanner
+from task1_matcher import SecretMatcher
+from task2_entropy import EntropyScanner
 class SecretSanitizer:
     def mask_secret(self, secret: str) -> str:
         if len(secret) <= 8:

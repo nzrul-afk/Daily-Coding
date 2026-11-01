@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
-from day_16_task1_manifest_parser import K8sManifestParser
-from day_16_task2_pss_rule_engine import PSSRuleEngine
+from task1_manifest_parser import K8sManifestParser
+from task2_pss_rule_engine import PSSRuleEngine
 class K8sComplianceGate:
     def __init__(self):
         self.parser = K8sManifestParser()

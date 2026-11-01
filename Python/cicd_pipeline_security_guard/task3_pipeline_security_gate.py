@@ -1,6 +1,6 @@
 import json
-from day_17_task1_workflow_parser import GithubWorkFlowParser
-from day_17_task2_supply_chain_rules import SupplyChainRuleEngine
+from task1_workflow_parser import GithubWorkFlowParser
+from task2_supply_chain_rules import SupplyChainRuleEngine
 class PipelineSecurityGate:
     def __init__(self):
         self.parser = GithubWorkFlowParser()

@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
-from day_09_task1_baseline import BaseLineGenerator
-from day_09_task2_detector import IntegrityDetector
+from task1_baseline import BaseLineGenerator
+from task2_detector import IntegrityDetector
 current_file=Path(__file__).resolve().parent
 class InsidentResponder:
     def __init__(self, quarantine_dir="quarantine", vault_dir="backup_vault"):
