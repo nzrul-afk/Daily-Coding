@@ -1,0 +1,3 @@
+[ENV: development] Target: 10.10.10.50:8089 -> Status PORT_NON_STANDAR
+[ENV: development] Target: 192.168.1.1:80 -> Status PORT_STANDAR
+[ENV: development] Target: 192.168.1.1:80 -> Status PORT_STANDAR

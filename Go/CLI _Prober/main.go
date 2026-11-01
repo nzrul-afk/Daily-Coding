@@ -21,11 +21,16 @@ func main() {
 		status = "PORT_NON_STANDAR"
 	}
 
+	file, err := os.OpenFile("incident.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	logData := fmt.Sprintf("[ENV: %s] Target: %s:%d -> Status %s\n", env, *hostprt, *portprt, status)
-	err := os.WriteFile("incident.log", []byte(logData), 0644)
 	if err != nil {
 		fmt.Println("[ERROR]: Gagal menulis file log:", err)
 	}
+	defer file.Close()
+	if _, err := file.WriteString(logData); err != nil {
+    fmt.Println("[ERROR]: Gagal nulis log:", err)
+    return
+}
 	
 	fmt.Println("=== PROBER SELESAI ===")
 	fmt.Printf("Berhasil mencatat audit ke incident.log untuk %s:%d!\n", *hostprt, *portprt)
