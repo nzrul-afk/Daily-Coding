@@ -1,0 +1,15 @@
+[200] GitHub Public API (https://api.github.com) SELESAI!
+[200] Google Main (https://www.google.com) SELESAI!
+[200] Cloudflare DNS (https://1.1.1.1) SELESAI!
+[404] Testing Not Found 404 (https://httpbin.org/status/404) SELESAI!
+[500] Testing Error 500 (https://httpbin.org/status/500) SELESAI!
+[200] Google Main (https://www.google.com) SELESAI %!t(time.Duration=214237800)!
+[200] GitHub Public API (https://api.github.com) SELESAI %!t(time.Duration=324977400)!
+[200] Cloudflare DNS (https://1.1.1.1) SELESAI %!t(time.Duration=520365800)!
+[404] Testing Not Found 404 (https://httpbin.org/status/404) SELESAI %!t(time.Duration=906775800)!
+[500] Testing Error 500 (https://httpbin.org/status/500) SELESAI %!t(time.Duration=906775800)!
+[200] GitHub Public API (https://api.github.com) SELESAI 211.4029ms
+[200] Cloudflare DNS (https://1.1.1.1) SELESAI 339.2935ms
+[404] Testing Not Found 404 (https://httpbin.org/status/404) SELESAI 809.4257ms
+[500] Testing Error 500 (https://httpbin.org/status/500) SELESAI 808.8915ms
+[200] Google Main (https://www.google.com) SELESAI 1.3770081s

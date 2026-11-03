@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Google Main",
+    "url": "https://www.google.com"
+  },
+  {
+    "name": "GitHub Public API",
+    "url": "https://api.github.com"
+  },
+  {
+    "name": "Cloudflare DNS",
+    "url": "https://1.1.1.1"
+  },
+  {
+    "name": "Testing Error 500",
+    "url": "https://httpbin.org/status/500"
+  },
+  {
+    "name": "Testing Not Found 404",
+    "url": "https://httpbin.org/status/404"
+  }
+]
