@@ -13,3 +13,8 @@
 [404] Testing Not Found 404 (https://httpbin.org/status/404) SELESAI 809.4257ms
 [500] Testing Error 500 (https://httpbin.org/status/500) SELESAI 808.8915ms
 [200] Google Main (https://www.google.com) SELESAI 1.3770081s
+[200] GitHub Public API (https://api.github.com) SELESAI 213.0172ms
+[200] Google Main (https://www.google.com) SELESAI 231.0305ms
+[200] Cloudflare DNS (https://1.1.1.1) SELESAI 371.5413ms
+[500] Testing Error 500 (https://httpbin.org/status/500) SELESAI 846.4444ms
+[404] Testing Not Found 404 (https://httpbin.org/status/404) SELESAI 848.2183ms

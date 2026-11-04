@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Google Main",
+    "url": "https://google.com"
+  },
+  {
+    "name": "Youtube Main",
+    "url": "https://youtube.com"
+  },
+  {
+    "name": "Facebook Main",
+    "url": "https://facebook.com"
+  },
+  {
+    "name": "Instagram Main",
+    "url": "https://instagram.com"
+  },
+  {
+    "name": "Whatsapp Main",
+    "url": "https://whatsapp.com"
+  },
+  {
+    "name": "Wikipedia Main",
+    "url": "https://wikipedia.org"
+  },
+  {
+    "name": "Twitter Main",
+    "url": "https://twitter.com"
+  },
+  {
+    "name": "X Main",
+    "url": "https://x.com"
+  },
+  {
+    "name": "Yahoo Main",
+    "url": "https://yahoo.com"
+  },
+  {
+    "name": "Amazon Main",
+    "url": "https://amazon.com"
+  },
+  {
+    "name": "Apple Main",
+    "url": "https://apple.com"
+  },
+  {
+    "name": "Microsoft Main",
+    "url": "https://microsoft.com"
+  },
+  {
+    "name": "Linkedin Main",
+    "url": "https://linkedin.com"
+  },
+  {
+    "name": "Netflix Main",
+    "url": "https://netflix.com"
+  },
+  {
+    "name": "Openai Main",
+    "url": "https://openai.com"
+  },
+  {
+    "name": "Chatgpt Main",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "name": "Github Main",
+    "url": "https://github.com"
+  },
+  {
+    "name": "Gitlab Main",
+    "url": "https://gitlab.com"
+  },
+  {
+    "name": "Cloudflare Main",
+    "url": "https://cloudflare.com"
+  },
+  {
+    "name": "Reddit Main",
+    "url": "https://reddit.com"
+  },
+  {
+    "name": "Pinterest Main",
+    "url": "https://pinterest.com"
+  },
+  {
+    "name": "Bing Main",
+    "url": "https://bing.com"
+  },
+  {
+    "name": "Twitch Main",
+    "url": "https://twitch.tv"
+  },
+  {
+    "name": "Spotify Main",
+    "url": "https://spotify.com"
+  },
+  {
+    "name": "Tiktok Main",
+    "url": "https://tiktok.com"
+  },
+  {
+    "name": "Docker Main",
+    "url": "https://docker.com"
+  },
+  {
+    "name": "Kubernetes Main",
+    "url": "https://kubernetes.io"
+  },
+  {
+    "name": "Golang Main",
+    "url": "https://golang.org"
+  },
+  {
+    "name": "Python Main",
+    "url": "https://python.org"
+  },
+  {
+    "name": "Rust-lang Main",
+    "url": "https://rust-lang.org"
+  },
+  {
+    "name": "Nodejs Main",
+    "url": "https://nodejs.org"
+  },
+  {
+    "name": "Npmjs Main",
+    "url": "https://npmjs.com"
+  },
+  {
+    "name": "Pypi Main",
+    "url": "https://pypi.org"
+  },
+  {
+    "name": "Stackoverflow Main",
+    "url": "https://stackoverflow.com"
+  },
+  {
+    "name": "Stackexchange Main",
+    "url": "https://stackexchange.com"
+  },
+  {
+    "name": "Medium Main",
+    "url": "https://medium.com"
+  },
+  {
+    "name": "Dev Main",
+    "url": "https://dev.to"
+  },
+  {
+    "name": "Hashnode Main",
+    "url": "https://hashnode.com"
+  },
+  {
+    "name": "Digitalocean Main",
+    "url": "https://digitalocean.com"
+  },
+  {
+    "name": "Aws Main",
+    "url": "https://aws.amazon.com"
+  },
+  {
+    "name": "Cloud Main",
+    "url": "https://cloud.google.com"
+  },
+  {
+    "name": "Azure Main",
+    "url": "https://azure.microsoft.com"
+  },
+  {
+    "name": "Linode Main",
+    "url": "https://linode.com"
+  },
+  {
+    "name": "Vultr Main",
+    "url": "https://vultr.com"
+  },
+  {
+    "name": "Heroku Main",
+    "url": "https://heroku.com"
+  },
+  {
+    "name": "Vercel Main",
+    "url": "https://vercel.com"
+  },
+  {
+    "name": "Netlify Main",
+    "url": "https://netlify.com"
+  },
+  {
+    "name": "Datadoghq Main",
+    "url": "https://datadoghq.com"
+  },
+  {
+    "name": "Grafana Main",
+    "url": "https://grafana.com"
+  },
+  {
+    "name": "Elastic Main",
+    "url": "https://elastic.co"
+  },
+  {
+    "name": "Hashicorp Main",
+    "url": "https://hashicorp.com"
+  },
+  {
+    "name": "Terraform Main",
+    "url": "https://terraform.io"
+  },
+  {
+    "name": "Ansible Main",
+    "url": "https://ansible.com"
+  },
+  {
+    "name": "Jenkins Main",
+    "url": "https://jenkins.io"
+  },
+  {
+    "name": "Kompas Main",
+    "url": "https://kompas.com"
+  },
+  {
+    "name": "Detik Main",
+    "url": "https://detik.com"
+  },
+  {
+    "name": "Tribunnews Main",
+    "url": "https://tribunnews.com"
+  },
+  {
+    "name": "Liputan6 Main",
+    "url": "https://liputan6.com"
+  },
+  {
+    "name": "Tempo Main",
+    "url": "https://tempo.co"
+  },
+  {
+    "name": "Cnnindonesia Main",
+    "url": "https://cnnindonesia.com"
+  },
+  {
+    "name": "Kumparan Main",
+    "url": "https://kumparan.com"
+  },
+  {
+    "name": "Idntimes Main",
+    "url": "https://idntimes.com"
+  },
+  {
+    "name": "Suara Main",
+    "url": "https://suara.com"
+  },
+  {
+    "name": "Sindonews Main",
+    "url": "https://sindonews.com"
+  },
+  {
+    "name": "Republika Main",
+    "url": "https://republika.co.id"
+  },
+  {
+    "name": "Antaranews Main",
+    "url": "https://antaranews.com"
+  },
+  {
+    "name": "Tokopedia Main",
+    "url": "https://tokopedia.com"
+  },
+  {
+    "name": "Shopee Main",
+    "url": "https://shopee.co.id"
+  },
+  {
+    "name": "Bukalapak Main",
+    "url": "https://bukalapak.com"
+  },
+  {
+    "name": "Blibli Main",
+    "url": "https://blibli.com"
+  },
+  {
+    "name": "Lazada Main",
+    "url": "https://lazada.co.id"
+  },
+  {
+    "name": "Traveloka Main",
+    "url": "https://traveloka.com"
+  },
+  {
+    "name": "Tiket Main",
+    "url": "https://tiket.com"
+  },
+  {
+    "name": "Gojek Main",
+    "url": "https://gojek.com"
+  },
+  {
+    "name": "Grab Main",
+    "url": "https://grab.com"
+  },
+  {
+    "name": "Dana Main",
+    "url": "https://dana.id"
+  },
+  {
+    "name": "Ovo Main",
+    "url": "https://ovo.id"
+  },
+  {
+    "name": "Bca Main",
+    "url": "https://bca.co.id"
+  },
+  {
+    "name": "Mandiri Main",
+    "url": "https://mandiri.co.id"
+  },
+  {
+    "name": "Bni Main",
+    "url": "https://bni.co.id"
+  },
+  {
+    "name": "Bri Main",
+    "url": "https://bri.co.id"
+  },
+  {
+    "name": "Kaskus Main",
+    "url": "https://kaskus.co.id"
+  },
+  {
+    "name": "Kemkes Main",
+    "url": "https://kemkes.go.id"
+  },
+  {
+    "name": "Kemdikbud Main",
+    "url": "https://kemdikbud.go.id"
+  },
+  {
+    "name": "Kemenkeu Main",
+    "url": "https://kemenkeu.go.id"
+  },
+  {
+    "name": "Polinema Main",
+    "url": "https://polinema.ac.id"
+  },
+  {
+    "name": "Itb Main",
+    "url": "https://itb.ac.id"
+  },
+  {
+    "name": "Ugm Main",
+    "url": "https://ugm.ac.id"
+  },
+  {
+    "name": "Ui Main",
+    "url": "https://ui.ac.id"
+  },
+  {
+    "name": "Its Main",
+    "url": "https://its.ac.id"
+  },
+  {
+    "name": "Ub Main",
+    "url": "https://ub.ac.id"
+  },
+  {
+    "name": "Undip Main",
+    "url": "https://undip.ac.id"
+  },
+  {
+    "name": "Unair Main",
+    "url": "https://unair.ac.id"
+  },
+  {
+    "name": "Ipb Main",
+    "url": "https://ipb.ac.id"
+  },
+  {
+    "name": "Telkom Main",
+    "url": "https://telkom.co.id"
+  },
+  {
+    "name": "Indosatooredoo Main",
+    "url": "https://indosatooredoo.com"
+  },
+  {
+    "name": "Xl Main",
+    "url": "https://xl.co.id"
+  },
+  {
+    "name": "Smartfren Main",
+    "url": "https://smartfren.com"
+  },
+  {
+    "name": "Bbc Main",
+    "url": "https://bbc.com"
+  },
+  {
+    "name": "Cnn Main",
+    "url": "https://cnn.com"
+  },
+  {
+    "name": "Nytimes Main",
+    "url": "https://nytimes.com"
+  },
+  {
+    "name": "Theguardian Main",
+    "url": "https://theguardian.com"
+  },
+  {
+    "name": "Reuters Main",
+    "url": "https://reuters.com"
+  },
+  {
+    "name": "Bloomberg Main",
+    "url": "https://bloomberg.com"
+  },
+  {
+    "name": "Forbes Main",
+    "url": "https://forbes.com"
+  },
+  {
+    "name": "Wsj Main",
+    "url": "https://wsj.com"
+  },
+  {
+    "name": "Techcrunch Main",
+    "url": "https://techcrunch.com"
+  },
+  {
+    "name": "Theverge Main",
+    "url": "https://theverge.com"
+  },
+  {
+    "name": "Wired Main",
+    "url": "https://wired.com"
+  },
+  {
+    "name": "Engadget Main",
+    "url": "https://engadget.com"
+  },
+  {
+    "name": "Arstechnica Main",
+    "url": "https://arstechnica.com"
+  },
+  {
+    "name": "Huffpost Main",
+    "url": "https://huffpost.com"
+  },
+  {
+    "name": "Cnbc Main",
+    "url": "https://cnbc.com"
+  },
+  {
+    "name": "Foxnews Main",
+    "url": "https://foxnews.com"
+  },
+  {
+    "name": "Nationalgeographic Main",
+    "url": "https://nationalgeographic.com"
+  },
+  {
+    "name": "Quora Main",
+    "url": "https://quora.com"
+  },
+  {
+    "name": "Dropbox Main",
+    "url": "https://dropbox.com"
+  },
+  {
+    "name": "Slack Main",
+    "url": "https://slack.com"
+  },
+  {
+    "name": "Zoom Main",
+    "url": "https://zoom.us"
+  },
+  {
+    "name": "Discord Main",
+    "url": "https://discord.com"
+  },
+  {
+    "name": "Telegram Main",
+    "url": "https://telegram.org"
+  },
+  {
+    "name": "Archive Main",
+    "url": "https://archive.org"
+  },
+  {
+    "name": "Canva Main",
+    "url": "https://canva.com"
+  },
+  {
+    "name": "Adobe Main",
+    "url": "https://adobe.com"
+  },
+  {
+    "name": "Figma Main",
+    "url": "https://figma.com"
+  },
+  {
+    "name": "Salesforce Main",
+    "url": "https://salesforce.com"
+  },
+  {
+    "name": "Oracle Main",
+    "url": "https://oracle.com"
+  },
+  {
+    "name": "Ibm Main",
+    "url": "https://ibm.com"
+  },
+  {
+    "name": "Intel Main",
+    "url": "https://intel.com"
+  },
+  {
+    "name": "Amd Main",
+    "url": "https://amd.com"
+  },
+  {
+    "name": "Nvidia Main",
+    "url": "https://nvidia.com"
+  },
+  {
+    "name": "Cisco Main",
+    "url": "https://cisco.com"
+  },
+  {
+    "name": "Mozilla Main",
+    "url": "https://mozilla.org"
+  },
+  {
+    "name": "Apache Main",
+    "url": "https://apache.org"
+  },
+  {
+    "name": "Coursera Main",
+    "url": "https://coursera.org"
+  },
+  {
+    "name": "Edx Main",
+    "url": "https://edx.org"
+  },
+  {
+    "name": "Udemy Main",
+    "url": "https://udemy.com"
+  },
+  {
+    "name": "Khanacademy Main",
+    "url": "https://khanacademy.org"
+  },
+  {
+    "name": "Freecodecamp Main",
+    "url": "https://freecodecamp.org"
+  },
+  {
+    "name": "Codecademy Main",
+    "url": "https://codecademy.com"
+  },
+  {
+    "name": "W3schools Main",
+    "url": "https://w3schools.com"
+  },
+  {
+    "name": "Geeksforgeeks Main",
+    "url": "https://geeksforgeeks.org"
+  },
+  {
+    "name": "Tutorialspoint Main",
+    "url": "https://tutorialspoint.com"
+  },
+  {
+    "name": "Leetcode Main",
+    "url": "https://leetcode.com"
+  },
+  {
+    "name": "Hackerrank Main",
+    "url": "https://hackerrank.com"
+  },
+  {
+    "name": "Mit Main",
+    "url": "https://mit.edu"
+  },
+  {
+    "name": "Harvard Main",
+    "url": "https://harvard.edu"
+  },
+  {
+    "name": "Stanford Main",
+    "url": "https://stanford.edu"
+  },
+  {
+    "name": "Ox Main",
+    "url": "https://ox.ac.uk"
+  },
+  {
+    "name": "Cam Main",
+    "url": "https://cam.ac.uk"
+  },
+  {
+    "name": "Berkeley Main",
+    "url": "https://berkeley.edu"
+  },
+  {
+    "name": "Hackthebox Main",
+    "url": "https://hackthebox.com"
+  },
+  {
+    "name": "Tryhackme Main",
+    "url": "https://tryhackme.com"
+  },
+  {
+    "name": "Overthewire Main",
+    "url": "https://overthewire.org"
+  },
+  {
+    "name": "Picoctf Main",
+    "url": "https://picoctf.org"
+  },
+  {
+    "name": "Portswigger Main",
+    "url": "https://portswigger.net"
+  },
+  {
+    "name": "Owasp Main",
+    "url": "https://owasp.org"
+  },
+  {
+    "name": "Cve Main",
+    "url": "https://cve.org"
+  },
+  {
+    "name": "Nvd Main",
+    "url": "https://nvd.nist.gov"
+  },
+  {
+    "name": "Exploit-db Main",
+    "url": "https://exploit-db.com"
+  },
+  {
+    "name": "Virustotal Main",
+    "url": "https://virustotal.com"
+  },
+  {
+    "name": "Shodan Main",
+    "url": "https://shodan.io"
+  },
+  {
+    "name": "Ubuntu Main",
+    "url": "https://ubuntu.com"
+  },
+  {
+    "name": "Debian Main",
+    "url": "https://debian.org"
+  },
+  {
+    "name": "Archlinux Main",
+    "url": "https://archlinux.org"
+  },
+  {
+    "name": "Centos Main",
+    "url": "https://centos.org"
+  },
+  {
+    "name": "Fedoraproject Main",
+    "url": "https://fedoraproject.org"
+  },
+  {
+    "name": "Kernel Main",
+    "url": "https://kernel.org"
+  },
+  {
+    "name": "Kali Main",
+    "url": "https://kali.org"
+  },
+  {
+    "name": "Linuxmint Main",
+    "url": "https://linuxmint.com"
+  },
+  {
+    "name": "Alpinelinux Main",
+    "url": "https://alpinelinux.org"
+  },
+  {
+    "name": "Opensuse Main",
+    "url": "https://opensuse.org"
+  },
+  {
+    "name": "Redhat Main",
+    "url": "https://redhat.com"
+  },
+  {
+    "name": "Canonical Main",
+    "url": "https://canonical.com"
+  },
+  {
+    "name": "Httpbin Main",
+    "url": "https://httpbin.org"
+  },
+  {
+    "name": "Httpstat Main",
+    "url": "https://httpstat.us"
+  },
+  {
+    "name": "Postman-echo Main",
+    "url": "https://postman-echo.com"
+  },
+  {
+    "name": "Trello Main",
+    "url": "https://trello.com"
+  },
+  {
+    "name": "Asana Main",
+    "url": "https://asana.com"
+  },
+  {
+    "name": "Jira Main",
+    "url": "https://jira.atlassian.com"
+  },
+  {
+    "name": "Bitbucket Main",
+    "url": "https://bitbucket.org"
+  },
+  {
+    "name": "Notion Main",
+    "url": "https://notion.so"
+  },
+  {
+    "name": "Miro Main",
+    "url": "https://miro.com"
+  },
+  {
+    "name": "Airtable Main",
+    "url": "https://airtable.com"
+  },
+  {
+    "name": "Zendesk Main",
+    "url": "https://zendesk.com"
+  },
+  {
+    "name": "Mailchimp Main",
+    "url": "https://mailchimp.com"
+  },
+  {
+    "name": "Shopify Main",
+    "url": "https://shopify.com"
+  },
+  {
+    "name": "Stripe Main",
+    "url": "https://stripe.com"
+  },
+  {
+    "name": "Paypal Main",
+    "url": "https://paypal.com"
+  },
+  {
+    "name": "Squareup Main",
+    "url": "https://squareup.com"
+  },
+  {
+    "name": "Aliexpress Main",
+    "url": "https://aliexpress.com"
+  },
+  {
+    "name": "Ebay Main",
+    "url": "https://ebay.com"
+  },
+  {
+    "name": "Walmart Main",
+    "url": "https://walmart.com"
+  },
+  {
+    "name": "Target Main",
+    "url": "https://target.com"
+  },
+  {
+    "name": "Bestbuy Main",
+    "url": "https://bestbuy.com"
+  },
+  {
+    "name": "Ikea Main",
+    "url": "https://ikea.com"
+  },
+  {
+    "name": "Booking Main",
+    "url": "https://booking.com"
+  },
+  {
+    "name": "Airbnb Main",
+    "url": "https://airbnb.com"
+  },
+  {
+    "name": "Tripadvisor Main",
+    "url": "https://tripadvisor.com"
+  },
+  {
+    "name": "Expedia Main",
+    "url": "https://expedia.com"
+  },
+  {
+    "name": "Agoda Main",
+    "url": "https://agoda.com"
+  },
+  {
+    "name": "Uber Main",
+    "url": "https://uber.com"
+  },
+  {
+    "name": "Lyft Main",
+    "url": "https://lyft.com"
+  },
+  {
+    "name": "Imdb Main",
+    "url": "https://imdb.com"
+  },
+  {
+    "name": "Rottentomatoes Main",
+    "url": "https://rottentomatoes.com"
+  },
+  {
+    "name": "Steampowered Main",
+    "url": "https://steampowered.com"
+  },
+  {
+    "name": "Epicgames Main",
+    "url": "https://epicgames.com"
+  },
+  {
+    "name": "Ea Main",
+    "url": "https://ea.com"
+  },
+  {
+    "name": "Ubisoft Main",
+    "url": "https://ubisoft.com"
+  },
+  {
+    "name": "Playstation Main",
+    "url": "https://playstation.com"
+  },
+  {
+    "name": "Xbox Main",
+    "url": "https://xbox.com"
+  },
+  {
+    "name": "Nintendo Main",
+    "url": "https://nintendo.com"
+  },
+  {
+    "name": "Roblox Main",
+    "url": "https://roblox.com"
+  },
+  {
+    "name": "Twitch Main",
+    "url": "https://twitch.com"
+  },
+  {
+    "name": "Vimeo Main",
+    "url": "https://vimeo.com"
+  },
+  {
+    "name": "Dailymotion Main",
+    "url": "https://dailymotion.com"
+  },
+  {
+    "name": "Soundcloud Main",
+    "url": "https://soundcloud.com"
+  },
+  {
+    "name": "Bandcamp Main",
+    "url": "https://bandcamp.com"
+  },
+  {
+    "name": "Deezer Main",
+    "url": "https://deezer.com"
+  },
+  {
+    "name": "Tidal Main",
+    "url": "https://tidal.com"
+  },
+  {
+    "name": "Patreon Main",
+    "url": "https://patreon.com"
+  },
+  {
+    "name": "Kickstarter Main",
+    "url": "https://kickstarter.com"
+  },
+  {
+    "name": "Indiegogo Main",
+    "url": "https://indiegogo.com"
+  },
+  {
+    "name": "Gofundme Main",
+    "url": "https://gofundme.com"
+  },
+  {
+    "name": "Change Main",
+    "url": "https://change.org"
+  },
+  {
+    "name": "Goodreads Main",
+    "url": "https://goodreads.com"
+  },
+  {
+    "name": "Unsplash Main",
+    "url": "https://unsplash.com"
+  },
+  {
+    "name": "Pexels Main",
+    "url": "https://pexels.com"
+  },
+  {
+    "name": "Pixabay Main",
+    "url": "https://pixabay.com"
+  },
+  {
+    "name": "Behance Main",
+    "url": "https://behance.net"
+  },
+  {
+    "name": "Dribbble Main",
+    "url": "https://dribbble.com"
+  },
+  {
+    "name": "Deviantart Main",
+    "url": "https://deviantart.com"
+  },
+  {
+    "name": "Artstation Main",
+    "url": "https://artstation.com"
+  },
+  {
+    "name": "Flickr Main",
+    "url": "https://flickr.com"
+  },
+  {
+    "name": "Imgur Main",
+    "url": "https://imgur.com"
+  },
+  {
+    "name": "Giphy Main",
+    "url": "https://giphy.com"
+  },
+  {
+    "name": "Tenor Main",
+    "url": "https://tenor.com"
+  },
+  {
+    "name": "Slideshare Main",
+    "url": "https://slideshare.net"
+  },
+  {
+    "name": "Scribd Main",
+    "url": "https://scribd.com"
+  },
+  {
+    "name": "Issuu Main",
+    "url": "https://issuu.com"
+  },
+  {
+    "name": "Wattpad Main",
+    "url": "https://wattpad.com"
+  },
+  {
+    "name": "Smashingmagazine Main",
+    "url": "https://smashingmagazine.com"
+  },
+  {
+    "name": "Css-tricks Main",
+    "url": "https://css-tricks.com"
+  },
+  {
+    "name": "Web Main",
+    "url": "https://web.dev"
+  },
+  {
+    "name": "Developer Main",
+    "url": "https://developer.mozilla.org"
+  },
+  {
+    "name": "Learn Main",
+    "url": "https://learn.microsoft.com"
+  },
+  {
+    "name": "Docs Main",
+    "url": "https://docs.aws.amazon.com"
+  },
+  {
+    "name": "Cloud Main",
+    "url": "https://cloud.ibm.com"
+  },
+  {
+    "name": "Kubernetes Main",
+    "url": "https://kubernetes.slack.com"
+  },
+  {
+    "name": "Discuss Main",
+    "url": "https://discuss.elastic.co"
+  },
+  {
+    "name": "Community Main",
+    "url": "https://community.grafana.com"
+  },
+  {
+    "name": "Forum Main",
+    "url": "https://forum.golangbridge.org"
+  },
+  {
+    "name": "News Main",
+    "url": "https://news.ycombinator.com"
+  },
+  {
+    "name": "Producthunt Main",
+    "url": "https://producthunt.com"
+  },
+  {
+    "name": "Slashdot Main",
+    "url": "https://slashdot.org"
+  },
+  {
+    "name": "Gizmodo Main",
+    "url": "https://gizmodo.com"
+  },
+  {
+    "name": "Lifehacker Main",
+    "url": "https://lifehacker.com"
+  },
+  {
+    "name": "Mashable Main",
+    "url": "https://mashable.com"
+  },
+  {
+    "name": "Kotaku Main",
+    "url": "https://kotaku.com"
+  },
+  {
+    "name": "Polygon Main",
+    "url": "https://polygon.com"
+  },
+  {
+    "name": "Ign Main",
+    "url": "https://ign.com"
+  },
+  {
+    "name": "Gamespot Main",
+    "url": "https://gamespot.com"
+  },
+  {
+    "name": "Eurogamer Main",
+    "url": "https://eurogamer.net"
+  },
+  {
+    "name": "Pcgamer Main",
+    "url": "https://pcgamer.com"
+  },
+  {
+    "name": "Tomshardware Main",
+    "url": "https://tomshardware.com"
+  },
+  {
+    "name": "Anandtech Main",
+    "url": "https://anandtech.com"
+  },
+  {
+    "name": "Gsmarena Main",
+    "url": "https://gsmarena.com"
+  },
+  {
+    "name": "Androidcentral Main",
+    "url": "https://androidcentral.com"
+  },
+  {
+    "name": "9to5mac Main",
+    "url": "https://9to5mac.com"
+  },
+  {
+    "name": "Macrumors Main",
+    "url": "https://macrumors.com"
+  },
+  {
+    "name": "Androidauthority Main",
+    "url": "https://androidauthority.com"
+  },
+  {
+    "name": "Xda-developers Main",
+    "url": "https://xda-developers.com"
+  },
+  {
+    "name": "Bleepingcomputer Main",
+    "url": "https://bleepingcomputer.com"
+  },
+  {
+    "name": "Krebsonsecurity Main",
+    "url": "https://krebsonsecurity.com"
+  },
+  {
+    "name": "Threatpost Main",
+    "url": "https://threatpost.com"
+  },
+  {
+    "name": "Darkreading Main",
+    "url": "https://darkreading.com"
+  },
+  {
+    "name": "Securityweek Main",
+    "url": "https://securityweek.com"
+  },
+  {
+    "name": "Thehackernews Main",
+    "url": "https://thehackernews.com"
+  },
+  {
+    "name": "Trendmicro Main",
+    "url": "https://trendmicro.com"
+  },
+  {
+    "name": "Kaspersky Main",
+    "url": "https://kaspersky.com"
+  },
+  {
+    "name": "Mcafee Main",
+    "url": "https://mcafee.com"
+  },
+  {
+    "name": "Norton Main",
+    "url": "https://norton.com"
+  },
+  {
+    "name": "Malwarebytes Main",
+    "url": "https://malwarebytes.com"
+  },
+  {
+    "name": "Avast Main",
+    "url": "https://avast.com"
+  },
+  {
+    "name": "Bitdefender Main",
+    "url": "https://bitdefender.com"
+  },
+  {
+    "name": "Sophos Main",
+    "url": "https://sophos.com"
+  },
+  {
+    "name": "Crowdstrike Main",
+    "url": "https://crowdstrike.com"
+  },
+  {
+    "name": "Sentinelone Main",
+    "url": "https://sentinelone.com"
+  },
+  {
+    "name": "Paloaltonetworks Main",
+    "url": "https://paloaltonetworks.com"
+  },
+  {
+    "name": "Fortinet Main",
+    "url": "https://fortinet.com"
+  },
+  {
+    "name": "Checkpoint Main",
+    "url": "https://checkpoint.com"
+  },
+  {
+    "name": "Qualys Main",
+    "url": "https://qualys.com"
+  },
+  {
+    "name": "Rapid7 Main",
+    "url": "https://rapid7.com"
+  },
+  {
+    "name": "Tenable Main",
+    "url": "https://tenable.com"
+  },
+  {
+    "name": "Snyk Main",
+    "url": "https://snyk.io"
+  },
+  {
+    "name": "Sonarqube Main",
+    "url": "https://sonarqube.org"
+  },
+  {
+    "name": "Whitesourcesoftware Main",
+    "url": "https://whitesourcesoftware.com"
+  },
+  {
+    "name": "Veracode Main",
+    "url": "https://veracode.com"
+  },
+  {
+    "name": "Hackerone Main",
+    "url": "https://hackerone.com"
+  },
+  {
+    "name": "Bugcrowd Main",
+    "url": "https://bugcrowd.com"
+  },
+  {
+    "name": "Intigriti Main",
+    "url": "https://intigriti.com"
+  },
+  {
+    "name": "Synack Main",
+    "url": "https://synack.com"
+  },
+  {
+    "name": "Yeswehack Main",
+    "url": "https://yeswehack.com"
+  },
+  {
+    "name": "Immunefi Main",
+    "url": "https://immunefi.com"
+  },
+  {
+    "name": "Code4rena Main",
+    "url": "https://code4rena.com"
+  },
+  {
+    "name": "Etherscan Main",
+    "url": "https://etherscan.io"
+  },
+  {
+    "name": "Binance Main",
+    "url": "https://binance.com"
+  },
+  {
+    "name": "Coinbase Main",
+    "url": "https://coinbase.com"
+  },
+  {
+    "name": "Kraken Main",
+    "url": "https://kraken.com"
+  },
+  {
+    "name": "Kucoin Main",
+    "url": "https://kucoin.com"
+  },
+  {
+    "name": "Bybit Main",
+    "url": "https://bybit.com"
+  },
+  {
+    "name": "Coingecko Main",
+    "url": "https://coingecko.com"
+  },
+  {
+    "name": "Coinmarketcap Main",
+    "url": "https://coinmarketcap.com"
+  },
+  {
+    "name": "Tradingview Main",
+    "url": "https://tradingview.com"
+  },
+  {
+    "name": "Investing Main",
+    "url": "https://investing.com"
+  },
+  {
+    "name": "Marketwatch Main",
+    "url": "https://marketwatch.com"
+  },
+  {
+    "name": "Fool Main",
+    "url": "https://fool.com"
+  },
+  {
+    "name": "Seekingalpha Main",
+    "url": "https://seekingalpha.com"
+  },
+  {
+    "name": "Morningstar Main",
+    "url": "https://morningstar.com"
+  },
+  {
+    "name": "Zillow Main",
+    "url": "https://zillow.com"
+  },
+  {
+    "name": "Realtor Main",
+    "url": "https://realtor.com"
+  },
+  {
+    "name": "Redfin Main",
+    "url": "https://redfin.com"
+  },
+  {
+    "name": "Glassdoor Main",
+    "url": "https://glassdoor.com"
+  },
+  {
+    "name": "Indeed Main",
+    "url": "https://indeed.com"
+  },
+  {
+    "name": "Monster Main",
+    "url": "https://monster.com"
+  },
+  {
+    "name": "Ziprecruiter Main",
+    "url": "https://ziprecruiter.com"
+  },
+  {
+    "name": "Simplyhired Main",
+    "url": "https://simplyhired.com"
+  },
+  {
+    "name": "Upwork Main",
+    "url": "https://upwork.com"
+  },
+  {
+    "name": "Fiverr Main",
+    "url": "https://fiverr.com"
+  },
+  {
+    "name": "Freelancer Main",
+    "url": "https://freelancer.com"
+  },
+  {
+    "name": "Toptal Main",
+    "url": "https://toptal.com"
+  },
+  {
+    "name": "Guru Main",
+    "url": "https://guru.com"
+  },
+  {
+    "name": "Peopleperhour Main",
+    "url": "https://peopleperhour.com"
+  },
+  {
+    "name": "Weather Main",
+    "url": "https://weather.com"
+  },
+  {
+    "name": "Accuweather Main",
+    "url": "https://accuweather.com"
+  },
+  {
+    "name": "Wunderground Main",
+    "url": "https://wunderground.com"
+  },
+  {
+    "name": "Speedtest Main",
+    "url": "https://speedtest.net"
+  },
+  {
+    "name": "Fast Main",
+    "url": "https://fast.com"
+  },
+  {
+    "name": "Whois Main",
+    "url": "https://whois.com"
+  },
+  {
+    "name": "Dnsleaktest Main",
+    "url": "https://dnsleaktest.com"
+  },
+  {
+    "name": "Whatismyipaddress Main",
+    "url": "https://whatismyipaddress.com"
+  },
+  {
+    "name": "Iplocation Main",
+    "url": "https://iplocation.net"
+  },
+  {
+    "name": "Downforeveryoneorjustme Main",
+    "url": "https://downforeveryoneorjustme.com"
+  },
+  {
+    "name": "Isitdownrightnow Main",
+    "url": "https://isitdownrightnow.com"
+  },
+  {
+    "name": "Uptime Main",
+    "url": "https://uptime.com"
+  },
+  {
+    "name": "Pingdom Main",
+    "url": "https://pingdom.com"
+  },
+  {
+    "name": "Statuspage Main",
+    "url": "https://statuspage.io"
+  },
+  {
+    "name": "Betteruptime Main",
+    "url": "https://betteruptime.com"
+  },
+  {
+    "name": "Google Api",
+    "url": "https://api.google.com"
+  },
+  {
+    "name": "Youtube Api",
+    "url": "https://api.youtube.com"
+  },
+  {
+    "name": "Facebook Api",
+    "url": "https://api.facebook.com"
+  },
+  {
+    "name": "Instagram Api",
+    "url": "https://api.instagram.com"
+  },
+  {
+    "name": "Whatsapp Api",
+    "url": "https://api.whatsapp.com"
+  },
+  {
+    "name": "Wikipedia Api",
+    "url": "https://api.wikipedia.org"
+  },
+  {
+    "name": "Twitter Api",
+    "url": "https://api.twitter.com"
+  },
+  {
+    "name": "X Api",
+    "url": "https://api.x.com"
+  },
+  {
+    "name": "Yahoo Api",
+    "url": "https://api.yahoo.com"
+  },
+  {
+    "name": "Amazon Api",
+    "url": "https://api.amazon.com"
+  },
+  {
+    "name": "Apple Api",
+    "url": "https://api.apple.com"
+  },
+  {
+    "name": "Microsoft Api",
+    "url": "https://api.microsoft.com"
+  },
+  {
+    "name": "Linkedin Api",
+    "url": "https://api.linkedin.com"
+  },
+  {
+    "name": "Netflix Api",
+    "url": "https://api.netflix.com"
+  },
+  {
+    "name": "Openai Api",
+    "url": "https://api.openai.com"
+  },
+  {
+    "name": "Chatgpt Api",
+    "url": "https://api.chatgpt.com"
+  },
+  {
+    "name": "Github Api",
+    "url": "https://api.github.com"
+  },
+  {
+    "name": "Gitlab Api",
+    "url": "https://api.gitlab.com"
+  },
+  {
+    "name": "Cloudflare Api",
+    "url": "https://api.cloudflare.com"
+  },
+  {
+    "name": "Reddit Api",
+    "url": "https://api.reddit.com"
+  },
+  {
+    "name": "Pinterest Api",
+    "url": "https://api.pinterest.com"
+  },
+  {
+    "name": "Bing Api",
+    "url": "https://api.bing.com"
+  },
+  {
+    "name": "Twitch Api",
+    "url": "https://api.twitch.tv"
+  },
+  {
+    "name": "Spotify Api",
+    "url": "https://api.spotify.com"
+  },
+  {
+    "name": "Tiktok Api",
+    "url": "https://api.tiktok.com"
+  },
+  {
+    "name": "Docker Api",
+    "url": "https://api.docker.com"
+  },
+  {
+    "name": "Kubernetes Api",
+    "url": "https://api.kubernetes.io"
+  },
+  {
+    "name": "Golang Api",
+    "url": "https://api.golang.org"
+  },
+  {
+    "name": "Python Api",
+    "url": "https://api.python.org"
+  },
+  {
+    "name": "Rust-lang Api",
+    "url": "https://api.rust-lang.org"
+  },
+  {
+    "name": "Nodejs Api",
+    "url": "https://api.nodejs.org"
+  },
+  {
+    "name": "Npmjs Api",
+    "url": "https://api.npmjs.com"
+  },
+  {
+    "name": "Pypi Api",
+    "url": "https://api.pypi.org"
+  },
+  {
+    "name": "Stackoverflow Api",
+    "url": "https://api.stackoverflow.com"
+  },
+  {
+    "name": "Stackexchange Api",
+    "url": "https://api.stackexchange.com"
+  },
+  {
+    "name": "Medium Api",
+    "url": "https://api.medium.com"
+  },
+  {
+    "name": "Dev Api",
+    "url": "https://api.dev.to"
+  },
+  {
+    "name": "Hashnode Api",
+    "url": "https://api.hashnode.com"
+  },
+  {
+    "name": "Digitalocean Api",
+    "url": "https://api.digitalocean.com"
+  },
+  {
+    "name": "Aws Api",
+    "url": "https://api.aws.amazon.com"
+  },
+  {
+    "name": "Cloud Api",
+    "url": "https://api.cloud.google.com"
+  },
+  {
+    "name": "Azure Api",
+    "url": "https://api.azure.microsoft.com"
+  },
+  {
+    "name": "Linode Api",
+    "url": "https://api.linode.com"
+  },
+  {
+    "name": "Vultr Api",
+    "url": "https://api.vultr.com"
+  },
+  {
+    "name": "Heroku Api",
+    "url": "https://api.heroku.com"
+  },
+  {
+    "name": "Vercel Api",
+    "url": "https://api.vercel.com"
+  },
+  {
+    "name": "Netlify Api",
+    "url": "https://api.netlify.com"
+  },
+  {
+    "name": "Datadoghq Api",
+    "url": "https://api.datadoghq.com"
+  },
+  {
+    "name": "Grafana Api",
+    "url": "https://api.grafana.com"
+  },
+  {
+    "name": "Elastic Api",
+    "url": "https://api.elastic.co"
+  },
+  {
+    "name": "Hashicorp Api",
+    "url": "https://api.hashicorp.com"
+  },
+  {
+    "name": "Terraform Api",
+    "url": "https://api.terraform.io"
+  },
+  {
+    "name": "Ansible Api",
+    "url": "https://api.ansible.com"
+  },
+  {
+    "name": "Jenkins Api",
+    "url": "https://api.jenkins.io"
+  },
+  {
+    "name": "Kompas Api",
+    "url": "https://api.kompas.com"
+  },
+  {
+    "name": "Detik Api",
+    "url": "https://api.detik.com"
+  },
+  {
+    "name": "Tribunnews Api",
+    "url": "https://api.tribunnews.com"
+  },
+  {
+    "name": "Liputan6 Api",
+    "url": "https://api.liputan6.com"
+  },
+  {
+    "name": "Tempo Api",
+    "url": "https://api.tempo.co"
+  },
+  {
+    "name": "Cnnindonesia Api",
+    "url": "https://api.cnnindonesia.com"
+  },
+  {
+    "name": "Kumparan Api",
+    "url": "https://api.kumparan.com"
+  },
+  {
+    "name": "Idntimes Api",
+    "url": "https://api.idntimes.com"
+  },
+  {
+    "name": "Suara Api",
+    "url": "https://api.suara.com"
+  },
+  {
+    "name": "Sindonews Api",
+    "url": "https://api.sindonews.com"
+  },
+  {
+    "name": "Republika Api",
+    "url": "https://api.republika.co.id"
+  },
+  {
+    "name": "Antaranews Api",
+    "url": "https://api.antaranews.com"
+  },
+  {
+    "name": "Tokopedia Api",
+    "url": "https://api.tokopedia.com"
+  },
+  {
+    "name": "Shopee Api",
+    "url": "https://api.shopee.co.id"
+  },
+  {
+    "name": "Bukalapak Api",
+    "url": "https://api.bukalapak.com"
+  },
+  {
+    "name": "Blibli Api",
+    "url": "https://api.blibli.com"
+  },
+  {
+    "name": "Lazada Api",
+    "url": "https://api.lazada.co.id"
+  },
+  {
+    "name": "Traveloka Api",
+    "url": "https://api.traveloka.com"
+  },
+  {
+    "name": "Tiket Api",
+    "url": "https://api.tiket.com"
+  },
+  {
+    "name": "Gojek Api",
+    "url": "https://api.gojek.com"
+  },
+  {
+    "name": "Grab Api",
+    "url": "https://api.grab.com"
+  },
+  {
+    "name": "Dana Api",
+    "url": "https://api.dana.id"
+  },
+  {
+    "name": "Ovo Api",
+    "url": "https://api.ovo.id"
+  },
+  {
+    "name": "Bca Api",
+    "url": "https://api.bca.co.id"
+  },
+  {
+    "name": "Mandiri Api",
+    "url": "https://api.mandiri.co.id"
+  },
+  {
+    "name": "Bni Api",
+    "url": "https://api.bni.co.id"
+  },
+  {
+    "name": "Bri Api",
+    "url": "https://api.bri.co.id"
+  },
+  {
+    "name": "Kaskus Api",
+    "url": "https://api.kaskus.co.id"
+  },
+  {
+    "name": "Kemkes Api",
+    "url": "https://api.kemkes.go.id"
+  },
+  {
+    "name": "Kemdikbud Api",
+    "url": "https://api.kemdikbud.go.id"
+  },
+  {
+    "name": "Kemenkeu Api",
+    "url": "https://api.kemenkeu.go.id"
+  },
+  {
+    "name": "Polinema Api",
+    "url": "https://api.polinema.ac.id"
+  },
+  {
+    "name": "Itb Api",
+    "url": "https://api.itb.ac.id"
+  },
+  {
+    "name": "Ugm Api",
+    "url": "https://api.ugm.ac.id"
+  },
+  {
+    "name": "Ui Api",
+    "url": "https://api.ui.ac.id"
+  },
+  {
+    "name": "Its Api",
+    "url": "https://api.its.ac.id"
+  },
+  {
+    "name": "Ub Api",
+    "url": "https://api.ub.ac.id"
+  },
+  {
+    "name": "Undip Api",
+    "url": "https://api.undip.ac.id"
+  },
+  {
+    "name": "Unair Api",
+    "url": "https://api.unair.ac.id"
+  },
+  {
+    "name": "Ipb Api",
+    "url": "https://api.ipb.ac.id"
+  },
+  {
+    "name": "Telkom Api",
+    "url": "https://api.telkom.co.id"
+  },
+  {
+    "name": "Indosatooredoo Api",
+    "url": "https://api.indosatooredoo.com"
+  },
+  {
+    "name": "Xl Api",
+    "url": "https://api.xl.co.id"
+  },
+  {
+    "name": "Smartfren Api",
+    "url": "https://api.smartfren.com"
+  },
+  {
+    "name": "Bbc Api",
+    "url": "https://api.bbc.com"
+  },
+  {
+    "name": "Cnn Api",
+    "url": "https://api.cnn.com"
+  },
+  {
+    "name": "Nytimes Api",
+    "url": "https://api.nytimes.com"
+  },
+  {
+    "name": "Theguardian Api",
+    "url": "https://api.theguardian.com"
+  },
+  {
+    "name": "Reuters Api",
+    "url": "https://api.reuters.com"
+  },
+  {
+    "name": "Bloomberg Api",
+    "url": "https://api.bloomberg.com"
+  },
+  {
+    "name": "Forbes Api",
+    "url": "https://api.forbes.com"
+  },
+  {
+    "name": "Wsj Api",
+    "url": "https://api.wsj.com"
+  },
+  {
+    "name": "Techcrunch Api",
+    "url": "https://api.techcrunch.com"
+  },
+  {
+    "name": "Theverge Api",
+    "url": "https://api.theverge.com"
+  },
+  {
+    "name": "Wired Api",
+    "url": "https://api.wired.com"
+  },
+  {
+    "name": "Engadget Api",
+    "url": "https://api.engadget.com"
+  },
+  {
+    "name": "Arstechnica Api",
+    "url": "https://api.arstechnica.com"
+  },
+  {
+    "name": "Huffpost Api",
+    "url": "https://api.huffpost.com"
+  },
+  {
+    "name": "Cnbc Api",
+    "url": "https://api.cnbc.com"
+  },
+  {
+    "name": "Foxnews Api",
+    "url": "https://api.foxnews.com"
+  },
+  {
+    "name": "Nationalgeographic Api",
+    "url": "https://api.nationalgeographic.com"
+  },
+  {
+    "name": "Quora Api",
+    "url": "https://api.quora.com"
+  },
+  {
+    "name": "Dropbox Api",
+    "url": "https://api.dropbox.com"
+  },
+  {
+    "name": "Slack Api",
+    "url": "https://api.slack.com"
+  },
+  {
+    "name": "Zoom Api",
+    "url": "https://api.zoom.us"
+  },
+  {
+    "name": "Discord Api",
+    "url": "https://api.discord.com"
+  },
+  {
+    "name": "Telegram Api",
+    "url": "https://api.telegram.org"
+  },
+  {
+    "name": "Archive Api",
+    "url": "https://api.archive.org"
+  },
+  {
+    "name": "Canva Api",
+    "url": "https://api.canva.com"
+  },
+  {
+    "name": "Adobe Api",
+    "url": "https://api.adobe.com"
+  },
+  {
+    "name": "Figma Api",
+    "url": "https://api.figma.com"
+  },
+  {
+    "name": "Salesforce Api",
+    "url": "https://api.salesforce.com"
+  },
+  {
+    "name": "Oracle Api",
+    "url": "https://api.oracle.com"
+  },
+  {
+    "name": "Ibm Api",
+    "url": "https://api.ibm.com"
+  },
+  {
+    "name": "Intel Api",
+    "url": "https://api.intel.com"
+  },
+  {
+    "name": "Amd Api",
+    "url": "https://api.amd.com"
+  },
+  {
+    "name": "Nvidia Api",
+    "url": "https://api.nvidia.com"
+  },
+  {
+    "name": "Cisco Api",
+    "url": "https://api.cisco.com"
+  },
+  {
+    "name": "Mozilla Api",
+    "url": "https://api.mozilla.org"
+  },
+  {
+    "name": "Apache Api",
+    "url": "https://api.apache.org"
+  },
+  {
+    "name": "Coursera Api",
+    "url": "https://api.coursera.org"
+  },
+  {
+    "name": "Edx Api",
+    "url": "https://api.edx.org"
+  },
+  {
+    "name": "Udemy Api",
+    "url": "https://api.udemy.com"
+  },
+  {
+    "name": "Khanacademy Api",
+    "url": "https://api.khanacademy.org"
+  },
+  {
+    "name": "Freecodecamp Api",
+    "url": "https://api.freecodecamp.org"
+  },
+  {
+    "name": "Codecademy Api",
+    "url": "https://api.codecademy.com"
+  },
+  {
+    "name": "W3schools Api",
+    "url": "https://api.w3schools.com"
+  },
+  {
+    "name": "Geeksforgeeks Api",
+    "url": "https://api.geeksforgeeks.org"
+  },
+  {
+    "name": "Tutorialspoint Api",
+    "url": "https://api.tutorialspoint.com"
+  },
+  {
+    "name": "Leetcode Api",
+    "url": "https://api.leetcode.com"
+  },
+  {
+    "name": "Hackerrank Api",
+    "url": "https://api.hackerrank.com"
+  },
+  {
+    "name": "Mit Api",
+    "url": "https://api.mit.edu"
+  },
+  {
+    "name": "Harvard Api",
+    "url": "https://api.harvard.edu"
+  },
+  {
+    "name": "Stanford Api",
+    "url": "https://api.stanford.edu"
+  },
+  {
+    "name": "Ox Api",
+    "url": "https://api.ox.ac.uk"
+  },
+  {
+    "name": "Cam Api",
+    "url": "https://api.cam.ac.uk"
+  },
+  {
+    "name": "Berkeley Api",
+    "url": "https://api.berkeley.edu"
+  },
+  {
+    "name": "Hackthebox Api",
+    "url": "https://api.hackthebox.com"
+  }
+]
