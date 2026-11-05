@@ -1,0 +1,1000 @@
+[403] Worker #7: Wikipedia Main (212.4607ms)
+[200] Worker #1: Google Main (434.1158ms)
+[200] Worker #8: X Main (462.6639ms)
+[200] Worker #9: Youtube Main (477.2073ms)
+[200] Worker #7: Apple Main (339.2215ms)
+[200] Worker #8: Linkedin Main (166.502ms)
+[200] Worker #6: Whatsapp Main (663.723ms)
+[200] Worker #3: Twitter Main (667.7262ms)
+[403] Worker #7: Openai Main (162.2391ms)
+[200] Worker #0: Facebook Main (813.7779ms)
+[200] Worker #5: Instagram Main (857.7221ms)
+[200] Worker #6: Github Main (219.2483ms)
+[200] Worker #8: Chatgpt Main (369.0563ms)
+[429] Worker #2: Yahoo Main (1.0602943s)
+[200] Worker #1: Microsoft Main (679.0363ms)
+[200] Worker #4: Amazon Main (1.2591767s)
+[200] Worker #8: Twitch Main (277.8637ms)
+[200] Worker #3: Gitlab Main (630.1762ms)
+[200] Worker #7: Cloudflare Main (617.2104ms)
+[200] Worker #0: Reddit Main (576.4735ms)
+[200] Worker #6: Bing Main (528.8691ms)
+[200] Worker #8: Kubernetes Main (159.4161ms)
+[200] Worker #0: Rust-lang Main (142.3327ms)
+[200] Worker #4: Docker Main (295.6778ms)
+[200] Worker #5: Pinterest Main (745.72ms)
+[200] Worker #7: Python Main (295.5265ms)
+[200] Worker #0: Pypi Main (149.0357ms)
+[200] Worker #1: Tiktok Main (578.8609ms)
+[403] Worker #8: Npmjs Main (305.8184ms)
+[403] Worker #4: Stackoverflow Main (186.4659ms)
+[200] Worker #6: Nodejs Main (349.7679ms)
+[403] Worker #5: Stackexchange Main (184.1573ms)
+[403] Worker #7: Medium Main (169.3274ms)
+[200] Worker #1: Hashnode Main (195.8061ms)
+[200] Worker #0: Dev Main (231.0096ms)
+[200] Worker #2: Spotify Main (863.1606ms)
+[200] Worker #6: Cloud Main (170.028ms)
+[200] Worker #8: Digitalocean Main (357.2798ms)
+[200] Worker #2: Vercel Main (195.7669ms)
+[200] Worker #4: Aws Main (381.6347ms)
+[200] Worker #3: Golang Main (926.9092ms)
+[200] Worker #6: Netlify Main (312.0876ms)
+[200] Worker #2: Grafana Main (376.6876ms)
+[200] Worker #4: Elastic Main (496.6141ms)
+[429] Worker #3: Hashicorp Main (405.4355ms)
+[200] Worker #5: Azure Main (922.6436ms)
+[200] Worker #3: Kompas Main (150.8606ms)
+[200] Worker #0: Heroku Main (1.0505362s)
+[403] Worker #3: Tribunnews Main (215.3714ms)
+[200] Worker #5: Detik Main (288.7676ms)
+[200] Worker #8: Datadoghq Main (986.55ms)
+[403] Worker #1: Vultr Main (1.2657162s)
+[403] Worker #5: Cnnindonesia Main (156.7163ms)
+[200] Worker #8: Kumparan Main (236.1085ms)
+[200] Worker #6: Terraform Main (1.0966761s)
+[200] Worker #0: Liputan6 Main (454.4086ms)
+[200] Worker #1: Idntimes Main (297.5229ms)
+[200] Worker #0: Antaranews Main (237.7297ms)
+[DOWN] Worker #1: Tokopedia Main (https://tokopedia.com) - Gagal
+[403] Worker #8: Sindonews Main (457.1389ms)
+[200] Worker #4: Jenkins Main (1.1641827s)
+[200] Worker #6: Republika Main (550.5287ms)
+[200] Worker #5: Suara Main (748.6283ms)
+[200] Worker #0: Shopee Main (278.7179ms)
+[200] Worker #4: Lazada Main (338.7495ms)
+[403] Worker #8: Blibli Main (354.8102ms)
+[403] Worker #5: Tiket Main (293.0448ms)
+[200] Worker #6: Traveloka Main (386.0439ms)
+[200] Worker #2: Ansible Main (1.8897712s)
+[200] Worker #0: Gojek Main (462.1898ms)
+[200] Worker #4: Grab Main (307.3295ms)
+[200] Worker #5: Ovo Main (254.8345ms)
+[403] Worker #0: Bni Main (108.8661ms)
+[DOWN] Worker #8: Dana Main (https://dana.id) - Gagal
+[DOWN] Worker #8: Kemdikbud Main (https://kemdikbud.go.id) - Gagal
+[200] Worker #8: Kemenkeu Main (266.4164ms)
+[200] Worker #6: Bca Main (562.4404ms)
+[200] Worker #5: Kaskus Main (388.2433ms)
+[200] Worker #2: Mandiri Main (483.4829ms)
+[DOWN] Worker #8: Polinema Main (https://polinema.ac.id) - Gagal
+[200] Worker #0: Kemkes Main (503.2685ms)
+[200] Worker #2: Ui Main (140.3399ms)
+[200] Worker #6: Itb Main (253.7838ms)
+[200] Worker #5: Ugm Main (255.3984ms)
+[403] Worker #4: Bri Main (690.7443ms)
+[200] Worker #2: Undip Main (332.3009ms)
+[DOWN] Worker #9: Netflix Main (https://netflix.com) - Gagal
+[200] Worker #1: Bukalapak Main (1.7154289s)
+[200] Worker #5: Ipb Main (615.2966ms)
+[200] Worker #2: Indosatooredoo Main (379.9675ms)
+[200] Worker #9: Xl Main (358.5682ms)
+[200] Worker #1: Smartfren Main (384.8245ms)
+[200] Worker #5: Bbc Main (296.0015ms)
+[403] Worker #9: Nytimes Main (313.3787ms)
+[200] Worker #2: Cnn Main (443.7409ms)
+[200] Worker #8: Its Main (1.3153279s)
+[200] Worker #6: Unair Main (1.229558s)
+[403] Worker #2: Forbes Main (180.9258ms)
+[200] Worker #4: Telkom Main (1.2602722s)
+[200] Worker #6: Techcrunch Main (177.1777ms)
+[200] Worker #2: Theverge Main (285.3248ms)
+[404] Worker #8: Wsj Main (510.6749ms)
+[DOWN] Worker #7: Linode Main (https://linode.com) - Gagal
+[200] Worker #6: Engadget Main (328.6276ms)
+[200] Worker #1: Theguardian Main (997.0277ms)
+[200] Worker #8: Huffpost Main (293.0131ms)
+[403] Worker #9: Bloomberg Main (921.0472ms)
+[200] Worker #6: Foxnews Main (336.8691ms)
+[403] Worker #8: Quora Main (145.9784ms)
+[200] Worker #4: Wired Main (1.0743002s)
+[200] Worker #8: Zoom Main (341.1409ms)
+[200] Worker #6: Slack Main (439.727ms)
+[200] Worker #4: Discord Main (180.857ms)
+[403] Worker #2: Arstechnica Main (1.0181483s)
+[401] Worker #5: Reuters Main (1.6551038s)
+[DOWN] Worker #5: Figma Main (https://figma.com) - Gagal
+[403] Worker #4: Canva Main (322.4702ms)
+[DOWN] Worker #3: Tempo Main (https://tempo.co) - Gagal
+[200] Worker #7: Cnbc Main (1.2471184s)
+[200] Worker #8: Telegram Main (635.5602ms)
+[200] Worker #9: Dropbox Main (1.2079245s)
+[200] Worker #6: Archive Main (691.4152ms)
+[200] Worker #1: Nationalgeographic Main (1.6622303s)
+[200] Worker #3: Ibm Main (827.1206ms)
+[200] Worker #8: Amd Main (716.2252ms)
+[200] Worker #5: Salesforce Main (1.2296515s)
+[DOWN] Worker #5: Edx Main (https://edx.org) - Gagal
+[403] Worker #4: Oracle Main (1.1902845s)
+[403] Worker #5: Udemy Main (161.5147ms)
+[200] Worker #2: Adobe Main (1.7191278s)
+[200] Worker #6: Cisco Main (1.1980377s)
+[200] Worker #4: Khanacademy Main (367.4814ms)
+[200] Worker #9: Nvidia Main (1.3612497s)
+[200] Worker #7: Intel Main (1.6940296s)
+[403] Worker #7: Leetcode Main (160.5185ms)
+[200] Worker #1: Mozilla Main (1.4091009s)
+[200] Worker #8: Coursera Main (1.0839229s)
+[403] Worker #2: Codecademy Main (593.1008ms)
+[DOWN] Worker #0: Ub Main (https://ub.ac.id) - Gagal
+[200] Worker #5: Freecodecamp Main (810.2009ms)
+[200] Worker #4: Geeksforgeeks Main (660.9602ms)
+[200] Worker #8: Harvard Main (283.4058ms)
+[200] Worker #5: Cam Main (283.3999ms)
+[200] Worker #1: Mit Main (595.8318ms)
+[200] Worker #1: Overthewire Main (312.6323ms)
+[200] Worker #5: Tryhackme Main (500.3118ms)
+[200] Worker #9: Tutorialspoint Main (1.3291784s)
+[403] Worker #2: Stanford Main (1.1773112s)
+[200] Worker #1: Picoctf Main (286.7857ms)
+[403] Worker #8: Hackthebox Main (897.6668ms)
+[200] Worker #4: Berkeley Main (979.8041ms)
+[403] Worker #6: W3schools Main (1.6667355s)
+[403] Worker #0: Ox Main (1.1826117s)
+[200] Worker #9: Owasp Main (225.1014ms)
+[200] Worker #5: Portswigger Main (604.7777ms)
+[200] Worker #6: Shodan Main (354.366ms)
+[403] Worker #4: Virustotal Main (609.0173ms)
+[200] Worker #0: Ubuntu Main (598.6385ms)
+[200] Worker #1: Nvd Main (736.086ms)
+[200] Worker #7: Hackerrank Main (2.0502036s)
+[200] Worker #9: Debian Main (834.3056ms)
+[200] Worker #4: Fedoraproject Main (400.7868ms)
+[200] Worker #7: Linuxmint Main (365.3847ms)
+[200] Worker #2: Cve Main (1.3963565s)
+[200] Worker #0: Kernel Main (824.6929ms)
+[200] Worker #5: Archlinux Main (1.191158s)
+[200] Worker #6: Centos Main (1.2301846s)
+[200] Worker #9: Alpinelinux Main (880.0875ms)
+[DOWN] Worker #9: Trello Main (https://trello.com) - Gagal
+[200] Worker #2: Canonical Main (617.8781ms)
+[200] Worker #7: Redhat Main (885.6124ms)
+[200] Worker #9: Asana Main (191.6017ms)
+[DOWN] Worker #2: Jira Main (https://jira.atlassian.com) - Gagal
+[200] Worker #0: Httpbin Main (822.4148ms)
+[200] Worker #2: Miro Main (389.579ms)
+[200] Worker #7: Bitbucket Main (540.499ms)
+[200] Worker #9: Notion Main (580.9556ms)
+[DOWN] Worker #3: Apache Main (https://apache.org) - Gagal
+[200] Worker #7: Mailchimp Main (310.6095ms)
+[200] Worker #3: Stripe Main (229.8616ms)
+[200] Worker #8: Exploit-db Main (3.035655s)
+[200] Worker #9: Shopify Main (445.2904ms)
+[200] Worker #0: Airtable Main (810.8169ms)
+[200] Worker #1: Kali Main (2.3892457s)
+[403] Worker #2: Zendesk Main (670.445ms)
+[200] Worker #4: Opensuse Main (2.1738909s)
+[200] Worker #8: Aliexpress Main (189.6881ms)
+[200] Worker #3: Squareup Main (319.017ms)
+[200] Worker #0: Walmart Main (443.9666ms)
+[200] Worker #6: Postman-echo Main (1.9540357s)
+[403] Worker #9: Ebay Main (527.047ms)
+[200] Worker #4: Ikea Main (473.3707ms)
+[429] Worker #6: Expedia Main (332.1797ms)
+[DOWN] Worker #2: Bestbuy Main (https://bestbuy.com) - Gagal
+[200] Worker #7: Paypal Main (1.1414094s)
+[403] Worker #0: Tripadvisor Main (772.4664ms)
+[DOWN] Worker #6: Lyft Main (https://lyft.com) - Gagal
+[406] Worker #4: Uber Main (751.2256ms)
+[200] Worker #7: Rottentomatoes Main (379.081ms)
+[202] Worker #8: Booking Main (1.2423619s)
+[200] Worker #4: Ea Main (595.4261ms)
+[200] Worker #1: Target Main (1.9610353s)
+[200] Worker #0: Steampowered Main (821.6241ms)
+[200] Worker #3: Airbnb Main (2.0013612s)
+[200] Worker #9: Agoda Main (1.6180703s)
+[403] Worker #2: Imdb Main (1.2980723s)
+[DOWN] Worker #9: Vimeo Main (https://vimeo.com) - Gagal
+[403] Worker #6: Epicgames Main (1.0108671s)
+[200] Worker #9: Soundcloud Main (368.4473ms)
+[200] Worker #0: Roblox Main (560.1251ms)
+[200] Worker #8: Playstation Main (1.3275169s)
+[403] Worker #0: Tidal Main (173.149ms)
+[200] Worker #4: Xbox Main (1.0106881s)
+[200] Worker #6: Bandcamp Main (670.893ms)
+[200] Worker #3: Twitch Main (919.6217ms)
+[200] Worker #8: Patreon Main (367.1654ms)
+[200] Worker #6: Gofundme Main (352.0158ms)
+[200] Worker #9: Deezer Main (755.0536ms)
+[DOWN] Worker #5: Httpstat Main (https://httpstat.us) - Gagal
+[403] Worker #0: Kickstarter Main (732.3676ms)
+[200] Worker #2: Dailymotion Main (1.3481034s)
+[403] Worker #5: Pixabay Main (143.6127ms)
+[403] Worker #4: Indiegogo Main (706.3099ms)
+[200] Worker #1: Nintendo Main (1.6726091s)
+[DOWN] Worker #1: Flickr Main (https://flickr.com) - Gagal
+[401] Worker #6: Unsplash Main (689.7154ms)
+[403] Worker #9: Pexels Main (729.2015ms)
+[403] Worker #4: Artstation Main (451.7988ms)
+[200] Worker #7: Ubisoft Main (2.8046086s)
+[202] Worker #2: Dribbble Main (607.3315ms)
+[200] Worker #3: Change Main (1.1788361s)
+[200] Worker #7: Scribd Main (274.2039ms)
+[200] Worker #6: Giphy Main (408.8868ms)
+[200] Worker #2: Issuu Main (406.2837ms)
+[200] Worker #1: Imgur Main (842.6183ms)
+[200] Worker #7: Smashingmagazine Main (319.6386ms)
+[200] Worker #1: Developer Main (169.2108ms)
+[200] Worker #3: Wattpad Main (654.9466ms)
+[403] Worker #6: Css-tricks Main (448.7162ms)
+[200] Worker #1: Docs Main (156.9021ms)
+[200] Worker #4: Slideshare Main (888.6186ms)
+[200] Worker #5: Deviantart Main (1.3856573s)
+[200] Worker #8: Goodreads Main (2.0075648s)
+[200] Worker #2: Web Main (532.9177ms)
+[200] Worker #7: Learn Main (457.6068ms)
+[401] Worker #3: Cloud Main (412.8216ms)
+[403] Worker #6: Kubernetes Main (466.8314ms)
+[403] Worker #3: Gizmodo Main (163.0161ms)
+[200] Worker #6: Lifehacker Main (169.2709ms)
+[200] Worker #7: Slashdot Main (367.3268ms)
+[200] Worker #4: Community Main (614.1943ms)
+[200] Worker #1: Discuss Main (701.9111ms)
+[200] Worker #3: Mashable Main (177.9475ms)
+[403] Worker #6: Kotaku Main (165.607ms)
+[403] Worker #2: Producthunt Main (624.4185ms)
+[200] Worker #8: News Main (700.1693ms)
+[429] Worker #0: Behance Main (2.4377811s)
+[200] Worker #5: Forum Main (1.0844461s)
+[200] Worker #9: Tenor Main (2.2706254s)
+[200] Worker #3: Eurogamer Main (754.9135ms)
+[200] Worker #9: 9to5mac Main (147.4649ms)
+[200] Worker #6: Pcgamer Main (821.1385ms)
+[403] Worker #1: Gamespot Main (908.8659ms)
+[200] Worker #5: Androidcentral Main (759.5203ms)
+[403] Worker #9: Androidauthority Main (366.3913ms)
+[403] Worker #1: Bleepingcomputer Main (405.039ms)
+[200] Worker #5: Krebsonsecurity Main (143.7247ms)
+[403] Worker #1: Darkreading Main (157.1336ms)
+[200] Worker #3: Macrumors Main (724.0673ms)
+[403] Worker #5: Securityweek Main (183.4594ms)
+[403] Worker #1: Thehackernews Main (163.5024ms)
+[200] Worker #0: Gsmarena Main (1.460176s)
+[200] Worker #7: Polygon Main (1.9048625s)
+[200] Worker #2: Tomshardware Main (1.8564418s)
+[DOWN] Worker #1: Mcafee Main (https://mcafee.com) - Gagal
+[200] Worker #6: Xda-developers Main (1.868765s)
+[200] Worker #3: Trendmicro Main (1.5051133s)
+[200] Worker #8: Anandtech Main (2.8745592s)
+[200] Worker #9: Threatpost Main (1.8184073s)
+[200] Worker #0: Norton Main (1.3971136s)
+[200] Worker #1: Bitdefender Main (588.0065ms)
+[200] Worker #5: Kaspersky Main (1.8723926s)
+[403] Worker #6: Sophos Main (644.7102ms)
+[200] Worker #2: Avast Main (1.6971149s)
+[429] Worker #8: Sentinelone Main (673.3116ms)
+[200] Worker #9: Paloaltonetworks Main (846.331ms)
+[200] Worker #0: Fortinet Main (844.2096ms)
+[200] Worker #8: Snyk Main (356.0621ms)
+[200] Worker #3: Crowdstrike Main (1.0637662s)
+[200] Worker #7: Malwarebytes Main (2.2662145s)
+[200] Worker #6: Rapid7 Main (915.3316ms)
+[200] Worker #5: Qualys Main (971.7026ms)
+[200] Worker #2: Tenable Main (1.0531251s)
+[200] Worker #8: Veracode Main (695.2387ms)
+[DOWN] Worker #4: Ign Main (https://ign.com) - Gagal
+[200] Worker #3: Hackerone Main (1.0978803s)
+[200] Worker #1: Checkpoint Main (2.0911223s)
+[200] Worker #2: Yeswehack Main (733.8732ms)
+[200] Worker #6: Intigriti Main (1.150192s)
+[DOWN] Worker #2: Coinbase Main (https://coinbase.com) - Gagal
+[200] Worker #9: Sonarqube Main (1.6342131s)
+[200] Worker #8: Immunefi Main (808.9903ms)
+[DOWN] Worker #2: Kucoin Main (https://kucoin.com) - Gagal
+[200] Worker #3: Etherscan Main (462.3153ms)
+[200] Worker #5: Synack Main (1.2998272s)
+[200] Worker #2: Coinmarketcap Main (156.0238ms)
+[200] Worker #4: Code4rena Main (822.9713ms)
+[403] Worker #5: Investing Main (155.016ms)
+[202] Worker #0: Whitesourcesoftware Main (1.8443845s)
+[200] Worker #3: Tradingview Main (296.7978ms)
+[403] Worker #8: Coingecko Main (379.6314ms)
+[401] Worker #2: Marketwatch Main (334.2051ms)
+[200] Worker #5: Seekingalpha Main (328.2916ms)
+[DOWN] Worker #0: Morningstar Main (https://morningstar.com) - Gagal
+[403] Worker #0: Indeed Main (222.2806ms)
+[405] Worker #2: Redfin Main (733.8579ms)
+[403] Worker #5: Glassdoor Main (682.2318ms)
+[200] Worker #4: Fool Main (1.1196453s)
+[403] Worker #3: Zillow Main (1.0454025s)
+[403] Worker #4: Upwork Main (155.4436ms)
+[429] Worker #8: Realtor Main (1.2699426s)
+[403] Worker #5: Simplyhired Main (513.1222ms)
+[403] Worker #3: Fiverr Main (414.829ms)
+[200] Worker #2: Ziprecruiter Main (600.7899ms)
+[403] Worker #8: Toptal Main (436.3383ms)
+[403] Worker #8: Accuweather Main (203.3627ms)
+[200] Worker #2: Weather Main (421.2641ms)
+[403] Worker #0: Monster Main (1.8882063s)
+[200] Worker #0: Fast Main (130.2646ms)
+[200] Worker #2: Speedtest Main (988.6465ms)
+[200] Worker #4: Freelancer Main (1.7810639s)
+[403] Worker #4: Whatismyipaddress Main (178.5923ms)
+[200] Worker #3: Peopleperhour Main (1.6454375s)
+[DOWN] Worker #7: Bugcrowd Main (https://bugcrowd.com) - Gagal
+[200] Worker #5: Guru Main (2.2678646s)
+[403] Worker #3: Downforeveryoneorjustme Main (724.761ms)
+[200] Worker #2: Dnsleaktest Main (1.0932857s)
+[200] Worker #8: Wunderground Main (2.2602907s)
+[DOWN] Worker #7: Isitdownrightnow Main (https://isitdownrightnow.com) - Gagal
+[200] Worker #4: Iplocation Main (1.2525812s)
+[200] Worker #0: Whois Main (1.731199s)
+[DOWN] Worker #4: Youtube Api (https://api.youtube.com) - Gagal
+[404] Worker #7: Google Api (241.4465ms)
+[DOWN] Worker #1: Binance Main (https://binance.com) - Gagal
+[DOWN] Worker #6: Kraken Main (https://kraken.com) - Gagal
+[DOWN] Worker #9: Bybit Main (https://bybit.com) - Gagal
+[403] Worker #0: Facebook Api (278.587ms)
+[DOWN] Worker #0: Yahoo Api (https://api.yahoo.com) - Gagal
+[404] Worker #4: Instagram Api (292.8292ms)
+[200] Worker #8: Betteruptime Main (589.2785ms)
+[DOWN] Worker #1: Wikipedia Api (https://api.wikipedia.org) - Gagal
+[DOWN] Worker #4: Apple Api (https://api.apple.com) - Gagal
+[403] Worker #3: Pingdom Main (1.0238141s)
+[404] Worker #6: Twitter Api (338.5172ms)
+[404] Worker #9: X Api (311.9519ms)
+[421] Worker #3: Openai Api (169.1468ms)
+[200] Worker #9: Github Api (135.2462ms)
+[200] Worker #2: Statuspage Main (1.0895961s)
+[404] Worker #1: Linkedin Api (377.6096ms)
+[200] Worker #5: Uptime Main (1.5308032s)
+[DOWN] Worker #4: Netflix Api (https://api.netflix.com) - Gagal
+[404] Worker #6: Chatgpt Api (427.6801ms)
+[400] Worker #5: Bing Api (255.088ms)
+[403] Worker #0: Amazon Api (882.6443ms)
+[404] Worker #4: Twitch Api (330.0029ms)
+[404] Worker #1: Pinterest Api (451.0701ms)
+[DOWN] Worker #4: Kubernetes Api (https://api.kubernetes.io) - Gagal
+[DOWN] Worker #4: Python Api (https://api.python.org) - Gagal
+[200] Worker #6: Spotify Api (448.3508ms)
+[200] Worker #9: Cloudflare Api (705.6563ms)
+[DOWN] Worker #4: Rust-lang Api (https://api.rust-lang.org) - Gagal
+[403] Worker #2: Reddit Api (781.0203ms)
+[200] Worker #7: Whatsapp Api (1.4602397s)
+[DOWN] Worker #4: Pypi Api (https://api.pypi.org) - Gagal
+[DOWN] Worker #8: Microsoft Api (https://api.microsoft.com) - Gagal
+[200] Worker #6: Nodejs Api (250.3351ms)
+[DOWN] Worker #9: Npmjs Api (https://api.npmjs.com) - Gagal
+[DOWN] Worker #8: Dev Api (https://api.dev.to) - Gagal
+[DOWN] Worker #8: Aws Api (https://api.aws.amazon.com) - Gagal
+[DOWN] Worker #8: Cloud Api (https://api.cloud.google.com) - Gagal
+[DOWN] Worker #8: Azure Api (https://api.azure.microsoft.com) - Gagal
+[200] Worker #7: Stackexchange Api (371.4632ms)
+[200] Worker #3: Gitlab Api (1.2974832s)
+[200] Worker #1: Golang Api (775.362ms)
+[200] Worker #9: Digitalocean Api (361.7732ms)
+[404] Worker #0: Docker Api (839.3586ms)
+[404] Worker #5: Tiktok Api (924.4353ms)
+[DOWN] Worker #5: Grafana Api (https://api.grafana.com) - Gagal
+[404] Worker #2: Stackoverflow Api (697.8594ms)
+[DOWN] Worker #6: Hashnode Api (https://api.hashnode.com) - Gagal
+[200] Worker #1: Vercel Api (313.5269ms)
+[DOWN] Worker #6: Terraform Api (https://api.terraform.io) - Gagal
+[DOWN] Worker #6: Jenkins Api (https://api.jenkins.io) - Gagal
+[DOWN] Worker #5: Elastic Api (https://api.elastic.co) - Gagal
+[DOWN] Worker #3: Heroku Api (https://api.heroku.com) - Gagal
+[404] Worker #6: Kompas Api (188.6586ms)
+[200] Worker #4: Medium Api (1.0460668s)
+[DOWN] Worker #2: Hashicorp Api (https://api.hashicorp.com) - Gagal
+[DOWN] Worker #1: Ansible Api (https://api.ansible.com) - Gagal
+[DOWN] Worker #1: Kumparan Api (https://api.kumparan.com) - Gagal
+[403] Worker #2: Cnnindonesia Api (199.2842ms)
+[403] Worker #3: Tribunnews Api (442.4098ms)
+[404] Worker #8: Linode Api (1.0766052s)
+[403] Worker #5: Detik Api (490.3419ms)
+[404] Worker #9: Netlify Api (1.0456507s)
+[404] Worker #6: Liputan6 Api (545.5789ms)
+[403] Worker #7: Vultr Api (1.2143572s)
+[DOWN] Worker #2: Suara Api (https://api.suara.com) - Gagal
+[DOWN] Worker #3: Sindonews Api (https://api.sindonews.com) - Gagal
+[403] Worker #8: Republika Api (208.0847ms)
+[DOWN] Worker #6: Shopee Api (https://api.shopee.co.id) - Gagal
+[DOWN] Worker #8: Traveloka Api (https://api.traveloka.com) - Gagal
+[404] Worker #9: Tokopedia Api (179.4968ms)
+[DOWN] Worker #5: Antaranews Api (https://api.antaranews.com) - Gagal
+[404] Worker #7: Bukalapak Api (189.8437ms)
+[DOWN] Worker #5: Dana Api (https://api.dana.id) - Gagal
+[404] Worker #2: Blibli Api (185.9447ms)
+[DOWN] Worker #1: Idntimes Api (https://api.idntimes.com) - Gagal
+[DOWN] Worker #2: Mandiri Api (https://api.mandiri.co.id) - Gagal
+[404] Worker #3: Lazada Api (220.7555ms)
+[200] Worker #4: Tempo Api (743.9147ms)
+[403] Worker #6: Tiket Api (192.1238ms)
+[502] Worker #9: Grab Api (187.3241ms)
+[200] Worker #0: Datadoghq Api (1.43341s)
+[DOWN] Worker #8: Gojek Api (https://api.gojek.com) - Gagal
+[DOWN] Worker #9: Kemenkeu Api (https://api.kemenkeu.go.id) - Gagal
+[404] Worker #7: Ovo Api (186.0605ms)
+[200] Worker #2: Bri Api (166.3845ms)
+[DOWN] Worker #9: Ugm Api (https://api.ugm.ac.id) - Gagal
+[404] Worker #4: Kemkes Api (204.0005ms)
+[DOWN] Worker #8: Itb Api (https://api.itb.ac.id) - Gagal
+[DOWN] Worker #4: Undip Api (https://api.undip.ac.id) - Gagal
+[401] Worker #7: Ui Api (153.3544ms)
+[DOWN] Worker #3: Kaskus Api (https://api.kaskus.co.id) - Gagal
+[DOWN] Worker #8: Unair Api (https://api.unair.ac.id) - Gagal
+[DOWN] Worker #7: Telkom Api (https://api.telkom.co.id) - Gagal
+[403] Worker #9: Ub Api (160.8444ms)
+[200] Worker #0: Polinema Api (343.3212ms)
+[DOWN] Worker #7: Smartfren Api (https://api.smartfren.com) - Gagal
+[200] Worker #2: Its Api (524.5588ms)
+[DOWN] Worker #9: Bbc Api (https://api.bbc.com) - Gagal
+[DOWN] Worker #3: Indosatooredoo Api (https://api.indosatooredoo.com) - Gagal
+[DOWN] Worker #2: Theguardian Api (https://api.theguardian.com) - Gagal
+[DOWN] Worker #2: Forbes Api (https://api.forbes.com) - Gagal
+[404] Worker #7: Nytimes Api (952.3683ms)
+[200] Worker #4: Ipb Api (1.5313191s)
+[DOWN] Worker #7: Techcrunch Api (https://api.techcrunch.com) - Gagal
+[401] Worker #9: Reuters Api (1.3286333s)
+[DOWN] Worker #6: Kemdikbud Api (https://api.kemdikbud.go.id) - Gagal
+[DOWN] Worker #4: Theverge Api (https://api.theverge.com) - Gagal
+[DOWN] Worker #7: Wired Api (https://api.wired.com) - Gagal
+[403] Worker #3: Bloomberg Api (1.5265186s)
+[DOWN] Worker #9: Engadget Api (https://api.engadget.com) - Gagal
+[422] Worker #3: Foxnews Api (185.6063ms)
+[DOWN] Worker #7: Cnbc Api (https://api.cnbc.com) - Gagal
+[DOWN] Worker #4: Huffpost Api (https://api.huffpost.com) - Gagal
+[404] Worker #3: Quora Api (519.289ms)
+[404] Worker #7: Dropbox Api (489.4508ms)
+[DOWN] Worker #7: Discord Api (https://api.discord.com) - Gagal
+[400] Worker #2: Wsj Api (1.9226544s)
+[DOWN] Worker #2: Archive Api (https://api.archive.org) - Gagal
+[200] Worker #3: Zoom Api (416.1477ms)
+[403] Worker #6: Arstechnica Api (1.3813456s)
+[200] Worker #4: Slack Api (977.917ms)
+[DOWN] Worker #3: Adobe Api (https://api.adobe.com) - Gagal
+[404] Worker #2: Canva Api (415.5832ms)
+[404] Worker #4: Salesforce Api (174.9735ms)
+[DOWN] Worker #3: Oracle Api (https://api.oracle.com) - Gagal
+[403] Worker #9: Nationalgeographic Api (1.4431774s)
+[DOWN] Worker #3: Amd Api (https://api.amd.com) - Gagal
+[403] Worker #4: Intel Api (359.1566ms)
+[DOWN] Worker #6: Figma Api (https://api.figma.com) - Gagal
+[DOWN] Worker #4: Mozilla Api (https://api.mozilla.org) - Gagal
+[DOWN] Worker #6: Apache Api (https://api.apache.org) - Gagal
+[200] Worker #7: Telegram Api (1.2616305s)
+[DOWN] Worker #9: Nvidia Api (https://api.nvidia.com) - Gagal
+[DOWN] Worker #6: Edx Api (https://api.edx.org) - Gagal
+[200] Worker #9: Khanacademy Api (211.3847ms)
+[DOWN] Worker #5: Bca Api (https://api.bca.co.id) - Gagal
+[DOWN] Worker #1: Bni Api (https://api.bni.co.id) - Gagal
+[404] Worker #7: Udemy Api (712.9943ms)
+[404] Worker #2: Ibm Api (1.4480767s)
+[404] Worker #6: Freecodecamp Api (395.7654ms)
+[DOWN] Worker #5: W3schools Api (https://api.w3schools.com) - Gagal
+[DOWN] Worker #8: Xl Api (https://api.xl.co.id) - Gagal
+[404] Worker #9: Codecademy Api (479.3888ms)
+[DOWN] Worker #0: Cnn Api (https://api.cnn.com) - Gagal
+[DOWN] Worker #2: Leetcode Api (https://api.leetcode.com) - Gagal
+[DOWN] Worker #8: Harvard Api (https://api.harvard.edu) - Gagal
+[404] Worker #4: Coursera Api (1.4436178s)
+[504] Worker #3: Cisco Api (1.5183347s)
+[DOWN] Worker #7: Tutorialspoint Api (https://api.tutorialspoint.com) - Gagal
+[DOWN] Worker #4: Hackthebox Api (https://api.hackthebox.com) - Gagal
+[DOWN] Worker #0: Ox Api (https://api.ox.ac.uk) - Gagal
+[DOWN] Worker #2: Cam Api (https://api.cam.ac.uk) - Gagal
+[200] Worker #1: Geeksforgeeks Api (1.0190968s)
+[403] Worker #5: Mit Api (892.8218ms)
+[DOWN] Worker #8: Berkeley Api (https://api.berkeley.edu) - Gagal
+[503] Worker #6: Hackerrank Api (1.5159098s)
+[DOWN] Worker #9: Stanford Api (https://api.stanford.edu) - Gagal
+[403] Worker #2: Wikipedia Main (169.7611ms)
+[200] Worker #5: Google Main (352.547ms)
+[200] Worker #3: X Main (376.5837ms)
+[200] Worker #4: Youtube Main (394.499ms)
+[DOWN] Worker #4: Netflix Main (https://netflix.com) - Gagal
+[200] Worker #3: Linkedin Main (163.9414ms)
+[200] Worker #2: Apple Main (373.4233ms)
+[200] Worker #6: Twitter Main (613.803ms)
+[200] Worker #1: Whatsapp Main (624.2888ms)
+[403] Worker #4: Openai Main (145.3754ms)
+[200] Worker #0: Instagram Main (696.8757ms)
+[200] Worker #7: Facebook Main (721.3943ms)
+[200] Worker #2: Github Main (207.1951ms)
+[200] Worker #3: Chatgpt Main (295.4932ms)
+[429] Worker #9: Yahoo Main (1.0077367s)
+[200] Worker #2: Twitch Main (262.5455ms)
+[200] Worker #1: Cloudflare Main (550.0658ms)
+[200] Worker #5: Microsoft Main (845.4974ms)
+[200] Worker #4: Reddit Main (571.5409ms)
+[200] Worker #8: Amazon Main (1.2198448s)
+[200] Worker #6: Gitlab Main (635.4383ms)
+[200] Worker #2: Docker Main (274.9706ms)
+[200] Worker #9: Tiktok Main (290.9445ms)
+[200] Worker #0: Pinterest Main (614.0349ms)
+[200] Worker #1: Kubernetes Main (155.8582ms)
+[200] Worker #7: Bing Main (634.3884ms)
+[200] Worker #8: Rust-lang Main (142.4025ms)
+[200] Worker #9: Pypi Main (123.0295ms)
+[403] Worker #0: Stackoverflow Main (148.3874ms)
+[200] Worker #3: Spotify Main (635.6293ms)
+[200] Worker #4: Python Main (278.4214ms)
+[403] Worker #1: Stackexchange Main (166.9881ms)
+[403] Worker #7: Medium Main (150.026ms)
+[200] Worker #8: Dev Main (175.7515ms)
+[DOWN] Worker #3: Aws Main (https://aws.amazon.com) - Gagal
+[200] Worker #6: Nodejs Main (331.7192ms)
+[200] Worker #9: Hashnode Main (178.4241ms)
+[403] Worker #2: Npmjs Main (337.7644ms)
+[200] Worker #4: Cloud Main (150.3236ms)
+[DOWN] Worker #2: Datadoghq Main (https://datadoghq.com) - Gagal
+[200] Worker #6: Vercel Main (160.3742ms)
+[200] Worker #0: Digitalocean Main (326.2432ms)
+[200] Worker #9: Netlify Main (289.6565ms)
+[429] Worker #6: Hashicorp Main (168.8517ms)
+[200] Worker #1: Azure Main (416.1839ms)
+[200] Worker #5: Golang Main (743.3731ms)
+[200] Worker #4: Grafana Main (349.9331ms)
+[200] Worker #1: Kompas Main (150.2661ms)
+[403] Worker #4: Tribunnews Main (145.7527ms)
+[200] Worker #3: Heroku Main (568.3945ms)
+[200] Worker #5: Detik Main (214.2751ms)
+[200] Worker #2: Elastic Main (506.9705ms)
+[403] Worker #3: Cnnindonesia Main (179.3835ms)
+[200] Worker #0: Terraform Main (568.2059ms)
+[200] Worker #5: Kumparan Main (263.326ms)
+[403] Worker #4: Tempo Main (336.3167ms)
+[200] Worker #1: Liputan6 Main (439.264ms)
+[403] Worker #0: Sindonews Main (156.2401ms)
+[403] Worker #8: Vultr Main (986.6664ms)
+[200] Worker #2: Idntimes Main (297.3677ms)
+[200] Worker #4: Antaranews Main (227.1743ms)
+[200] Worker #3: Suara Main (369.4783ms)
+[200] Worker #0: Shopee Main (207.0932ms)
+[DOWN] Worker #1: Tokopedia Main (https://tokopedia.com) - Gagal
+[403] Worker #2: Blibli Main (343.485ms)
+[200] Worker #6: Jenkins Main (998.8766ms)
+[200] Worker #5: Republika Main (573.2825ms)
+[200] Worker #4: Lazada Main (349.6499ms)
+[403] Worker #0: Tiket Main (337.2905ms)
+[200] Worker #3: Traveloka Main (383.1845ms)
+[200] Worker #2: Grab Main (307.7514ms)
+[DOWN] Worker #6: Dana Main (https://dana.id) - Gagal
+[200] Worker #9: Ansible Main (1.2976343s)
+[200] Worker #5: Ovo Main (246.8996ms)
+[DOWN] Worker #5: Kemdikbud Main (https://kemdikbud.go.id) - Gagal
+[200] Worker #1: Gojek Main (457.7869ms)
+[DOWN] Worker #1: Polinema Main (https://polinema.ac.id) - Gagal
+[200] Worker #0: Mandiri Main (338.3759ms)
+[DOWN] Worker #3: Bni Main (https://bni.co.id) - Gagal
+[200] Worker #5: Kemenkeu Main (239.7454ms)
+[200] Worker #6: Kaskus Main (330.4883ms)
+[200] Worker #4: Bca Main (481.0325ms)
+[200] Worker #8: Bukalapak Main (998.8819ms)
+[200] Worker #3: Ui Main (107.2435ms)
+[200] Worker #1: Itb Main (262.9911ms)
+[200] Worker #9: Kemkes Main (470.872ms)
+[200] Worker #4: Undip Main (318.723ms)
+[200] Worker #5: Its Main (368.7896ms)
+[200] Worker #9: Indosatooredoo Main (371.052ms)
+[200] Worker #3: Ipb Main (497.94ms)
+[200] Worker #4: Xl Main (379.4248ms)
+[200] Worker #5: Smartfren Main (384.8478ms)
+[200] Worker #9: Bbc Main (294.25ms)
+[200] Worker #3: Cnn Main (423.6889ms)
+[403] Worker #4: Nytimes Main (288.2909ms)
+[200] Worker #5: Theguardian Main (293.5562ms)
+[403] Worker #4: Forbes Main (165.0963ms)
+[200] Worker #8: Unair Main (1.1943773s)
+[200] Worker #1: Telkom Main (1.206878s)
+[200] Worker #4: Techcrunch Main (197.0298ms)
+[200] Worker #8: Theverge Main (279.6133ms)
+[200] Worker #0: Ugm Main (1.6235057s)
+[200] Worker #4: Engadget Main (319.9519ms)
+[200] Worker #1: Wired Main (403.7271ms)
+[404] Worker #5: Wsj Main (721.5092ms)
+[200] Worker #0: Huffpost Main (279.1482ms)
+[403] Worker #3: Bloomberg Main (907.7719ms)
+[403] Worker #0: Quora Main (183.1609ms)
+[401] Worker #9: Reuters Main (1.1941807s)
+[200] Worker #1: Foxnews Main (315.5294ms)
+[200] Worker #1: Discord Main (237.572ms)
+[200] Worker #9: Zoom Main (336.7253ms)
+[200] Worker #0: Slack Main (462.6737ms)
+[403] Worker #8: Arstechnica Main (1.0092857s)
+[DOWN] Worker #0: Canva Main (https://canva.com) - Gagal
+[200] Worker #1: Telegram Main (611.9407ms)
+[200] Worker #7: Linode Main (4.9098971s)
+[DOWN] Worker #0: Figma Main (https://figma.com) - Gagal
+[200] Worker #4: Cnbc Main (1.302696s)
+[200] Worker #3: Dropbox Main (1.1672468s)
+[200] Worker #9: Archive Main (760.0001ms)
+[200] Worker #3: Amd Main (439.1163ms)
+[200] Worker #5: Nationalgeographic Main (1.7590248s)
+[200] Worker #0: Ibm Main (727.2089ms)
+[200] Worker #4: Intel Main (913.5175ms)
+[200] Worker #5: Mozilla Main (468.053ms)
+[403] Worker #7: Oracle Main (1.1269824s)
+[DOWN] Worker #5: Edx Main (https://edx.org) - Gagal
+[403] Worker #7: Udemy Main (150.128ms)
+[200] Worker #8: Adobe Main (1.7309405s)
+[200] Worker #1: Salesforce Main (1.3533247s)
+[200] Worker #5: Khanacademy Main (294.3263ms)
+[403] Worker #8: Codecademy Main (304.3064ms)
+[200] Worker #3: Cisco Main (1.1626942s)
+[200] Worker #5: Geeksforgeeks Main (289.4641ms)
+[DOWN] Worker #2: Bri Main (https://bri.co.id) - Gagal
+[403] Worker #3: Leetcode Main (149.2958ms)
+[200] Worker #2: Mit Main (270.8439ms)
+[200] Worker #7: Freecodecamp Main (805.7192ms)
+[DOWN] Worker #6: Ub Main (https://ub.ac.id) - Gagal
+[200] Worker #3: Harvard Main (310.5393ms)
+[403] Worker #1: W3schools Main (911.0073ms)
+[200] Worker #6: Cam Main (291.8506ms)
+[200] Worker #4: Coursera Main (1.4750577s)
+[200] Worker #8: Tutorialspoint Main (872.0852ms)
+[200] Worker #1: Hackthebox Main (332.9095ms)
+[DOWN] Worker #8: Picoctf Main (https://picoctf.org) - Gagal
+[200] Worker #4: Overthewire Main (179.5793ms)
+[200] Worker #3: Berkeley Main (529.6996ms)
+[200] Worker #8: Owasp Main (171.271ms)
+[403] Worker #7: Ox Main (844.2611ms)
+[DOWN] Worker #1: Portswigger Main (https://portswigger.net) - Gagal
+[200] Worker #6: Tryhackme Main (568.9512ms)
+[403] Worker #2: Stanford Main (1.0658285s)
+[404] Worker #9: Nvidia Main (3.0193327s)
+[200] Worker #1: Shodan Main (317.0491ms)
+[200] Worker #5: Hackerrank Main (1.6564507s)
+[200] Worker #3: Nvd Main (737.2258ms)
+[403] Worker #7: Virustotal Main (589.8441ms)
+[200] Worker #6: Ubuntu Main (609.5577ms)
+[200] Worker #5: Fedoraproject Main (179.5261ms)
+[200] Worker #4: Cve Main (1.1645239s)
+[200] Worker #6: Linuxmint Main (346.719ms)
+[200] Worker #2: Debian Main (858.2782ms)
+[200] Worker #1: Centos Main (736.496ms)
+[200] Worker #5: Alpinelinux Main (607.4481ms)
+[200] Worker #3: Kernel Main (883.8644ms)
+[200] Worker #9: Archlinux Main (1.1723497s)
+[200] Worker #9: Trello Main (155.7733ms)
+[200] Worker #2: Canonical Main (769.4099ms)
+[200] Worker #9: Asana Main (186.2148ms)
+[200] Worker #6: Redhat Main (880.9305ms)
+[200] Worker #1: Httpbin Main (869.9136ms)
+[200] Worker #2: Jira Main (332.5705ms)
+[200] Worker #8: Exploit-db Main (2.3095007s)
+[200] Worker #9: Bitbucket Main (395.0993ms)
+[DOWN] Worker #5: Httpstat Main (https://httpstat.us) - Gagal
+[200] Worker #1: Miro Main (384.6378ms)
+[200] Worker #9: Mailchimp Main (188.8288ms)
+[200] Worker #6: Notion Main (570.49ms)
+[200] Worker #1: Stripe Main (184.0369ms)
+[200] Worker #5: Shopify Main (371.0765ms)
+[403] Worker #8: Zendesk Main (566.6464ms)
+[200] Worker #6: Squareup Main (302.2051ms)
+[200] Worker #1: Aliexpress Main (230.3514ms)
+[DOWN] Worker #0: Apache Main (https://apache.org) - Gagal
+[200] Worker #9: Paypal Main (480.4711ms)
+[200] Worker #7: Kali Main (2.2908478s)
+[200] Worker #2: Airtable Main (815.5872ms)
+[200] Worker #8: Walmart Main (317.8117ms)
+[200] Worker #3: Postman-echo Main (1.6907431s)
+[DOWN] Worker #1: Bestbuy Main (https://bestbuy.com) - Gagal
+[403] Worker #5: Ebay Main (593.9014ms)
+[200] Worker #0: Ikea Main (459.0899ms)
+[403] Worker #5: Lyft Main (126.9219ms)
+[429] Worker #8: Expedia Main (524.1814ms)
+[403] Worker #2: Tripadvisor Main (732.3588ms)
+[200] Worker #3: Agoda Main (564.0362ms)
+[406] Worker #1: Uber Main (777.4929ms)
+[202] Worker #9: Booking Main (1.1911359s)
+[200] Worker #5: Rottentomatoes Main (698.7945ms)
+[200] Worker #6: Target Main (1.4093227s)
+[200] Worker #7: Airbnb Main (1.4815916s)
+[200] Worker #3: Ea Main (697.3942ms)
+[200] Worker #8: Steampowered Main (855.5919ms)
+[DOWN] Worker #8: Vimeo Main (https://vimeo.com) - Gagal
+[403] Worker #0: Imdb Main (1.2250771s)
+[403] Worker #2: Epicgames Main (968.4747ms)
+[200] Worker #0: Soundcloud Main (331.232ms)
+[200] Worker #7: Roblox Main (504.1696ms)
+[403] Worker #7: Tidal Main (154.9106ms)
+[200] Worker #2: Bandcamp Main (583.2231ms)
+[200] Worker #9: Playstation Main (1.2392295s)
+[200] Worker #6: Nintendo Main (1.1530729s)
+[200] Worker #3: Twitch Main (921.7222ms)
+[200] Worker #7: Patreon Main (378.1606ms)
+[403] Worker #2: Kickstarter Main (310.2705ms)
+[DOWN] Worker #6: Gofundme Main (https://gofundme.com) - Gagal
+[403] Worker #9: Indiegogo Main (300.2318ms)
+[403] Worker #9: Pixabay Main (140.8188ms)
+[200] Worker #0: Deezer Main (968.3255ms)
+[403] Worker #6: Pexels Main (281.5918ms)
+[DOWN] Worker #4: Opensuse Main (https://opensuse.org) - Gagal
+[200] Worker #8: Dailymotion Main (1.4065399s)
+[DOWN] Worker #6: Deviantart Main (https://deviantart.com) - Gagal
+[403] Worker #4: Artstation Main (140.0856ms)
+[200] Worker #5: Xbox Main (2.0739638s)
+[401] Worker #2: Unsplash Main (660.4623ms)
+[200] Worker #8: Flickr Main (382.7784ms)
+[200] Worker #4: Giphy Main (419.3167ms)
+[200] Worker #5: Tenor Main (384.7284ms)
+[200] Worker #8: Scribd Main (268.4176ms)
+[202] Worker #0: Dribbble Main (721.7127ms)
+[200] Worker #1: Ubisoft Main (2.7402514s)
+[200] Worker #6: Imgur Main (833.865ms)
+[200] Worker #3: Change Main (1.4831606s)
+[200] Worker #4: Issuu Main (391.4923ms)
+[200] Worker #8: Smashingmagazine Main (298.141ms)
+[200] Worker #6: Developer Main (171.0925ms)
+[200] Worker #7: Goodreads Main (1.5608768s)
+[200] Worker #4: Docs Main (145.5925ms)
+[403] Worker #0: Css-tricks Main (498.1299ms)
+[200] Worker #2: Slideshare Main (893.0234ms)
+[200] Worker #1: Web Main (518.2957ms)
+[401] Worker #8: Cloud Main (362.2576ms)
+[200] Worker #5: Wattpad Main (690.5313ms)
+[200] Worker #3: Learn Main (517.438ms)
+[403] Worker #1: Producthunt Main (137.055ms)
+[403] Worker #6: Kubernetes Main (423.8234ms)
+[403] Worker #5: Gizmodo Main (152.7168ms)
+[200] Worker #1: Mashable Main (178.6928ms)
+[200] Worker #3: Lifehacker Main (189.9153ms)
+[200] Worker #8: Slashdot Main (366.2956ms)
+[200] Worker #4: Community Main (673.428ms)
+[200] Worker #7: Discuss Main (700.2628ms)
+[200] Worker #2: News Main (679.3852ms)
+[403] Worker #3: Gamespot Main (291.4818ms)
+[200] Worker #8: Eurogamer Main (284.5677ms)
+[200] Worker #4: Pcgamer Main (275.5208ms)
+[200] Worker #0: Forum Main (901.4002ms)
+[200] Worker #4: 9to5mac Main (124.7381ms)
+[429] Worker #9: Behance Main (2.4059895s)
+[403] Worker #4: Androidauthority Main (140.1762ms)
+[200] Worker #0: Macrumors Main (322.5067ms)
+[403] Worker #4: Bleepingcomputer Main (134.738ms)
+[200] Worker #0: Krebsonsecurity Main (143.5902ms)
+[403] Worker #0: Darkreading Main (148.1047ms)
+[200] Worker #8: Androidcentral Main (779.6888ms)
+[403] Worker #0: Securityweek Main (181.0142ms)
+[403] Worker #8: Thehackernews Main (164.1121ms)
+[200] Worker #7: Tomshardware Main (1.2763464s)
+[429] Worker #3: Gsmarena Main (1.326343s)
+[200] Worker #5: Polygon Main (1.9389417s)
+[200] Worker #4: Threatpost Main (1.0505853s)
+[200] Worker #8: Kaspersky Main (760.4783ms)
+[200] Worker #5: Malwarebytes Main (262.2696ms)
+[DOWN] Worker #7: Mcafee Main (https://mcafee.com) - Gagal
+[403] Worker #5: Sophos Main (530.3534ms)
+[200] Worker #9: Xda-developers Main (1.9943783s)
+[200] Worker #8: Bitdefender Main (603.1169ms)
+[200] Worker #2: Anandtech Main (2.4567437s)
+[200] Worker #0: Trendmicro Main (1.6269576s)
+[429] Worker #5: Sentinelone Main (321.7934ms)
+[200] Worker #7: Crowdstrike Main (465.9324ms)
+[200] Worker #4: Avast Main (1.0759997s)
+[200] Worker #3: Norton Main (1.418019s)
+[200] Worker #4: Snyk Main (238.0502ms)
+[200] Worker #0: Qualys Main (339.4459ms)
+[200] Worker #8: Fortinet Main (805.6747ms)
+[200] Worker #0: Veracode Main (294.6526ms)
+[200] Worker #9: Paloaltonetworks Main (865.8232ms)
+[200] Worker #5: Rapid7 Main (847.573ms)
+[200] Worker #0: Bugcrowd Main (292.0345ms)
+[200] Worker #9: Intigriti Main (290.7878ms)
+[200] Worker #8: Hackerone Main (512.6461ms)
+[200] Worker #7: Tenable Main (1.0640115s)
+[202] Worker #4: Whitesourcesoftware Main (1.1900511s)
+[200] Worker #7: Etherscan Main (449.8567ms)
+[DOWN] Worker #4: Binance Main (https://binance.com) - Gagal
+[DOWN] Worker #7: Coinbase Main (https://coinbase.com) - Gagal
+[200] Worker #9: Immunefi Main (757.8173ms)
+[200] Worker #3: Sonarqube Main (1.5619716s)
+[DOWN] Worker #9: Bybit Main (https://bybit.com) - Gagal
+[200] Worker #0: Yeswehack Main (876.0983ms)
+[403] Worker #1: Ign Main (4.7551155s)
+[200] Worker #2: Checkpoint Main (2.0565522s)
+[200] Worker #9: Coinmarketcap Main (151.8761ms)
+[200] Worker #8: Code4rena Main (851.7766ms)
+[DOWN] Worker #6: Kotaku Main (https://kotaku.com) - Gagal
+[403] Worker #1: Investing Main (157.801ms)
+[200] Worker #8: Seekingalpha Main (142.4447ms)
+[403] Worker #3: Coingecko Main (373.356ms)
+[200] Worker #0: Tradingview Main (346.3419ms)
+[405] Worker #3: Redfin Main (130.5233ms)
+[401] Worker #2: Marketwatch Main (351.8242ms)
+[403] Worker #6: Morningstar Main (296.1116ms)
+[403] Worker #0: Glassdoor Main (152.8247ms)
+[403] Worker #3: Indeed Main (160.8662ms)
+[403] Worker #0: Simplyhired Main (133.609ms)
+[200] Worker #5: Synack Main (1.6079939s)
+[200] Worker #9: Fool Main (641.5735ms)
+[403] Worker #3: Upwork Main (216.8138ms)
+[403] Worker #9: Toptal Main (171.2685ms)
+[403] Worker #0: Fiverr Main (503.4274ms)
+[403] Worker #1: Zillow Main (932.4499ms)
+[200] Worker #6: Ziprecruiter Main (694.7473ms)
+[DOWN] Worker #8: Realtor Main (https://realtor.com) - Gagal
+[403] Worker #1: Accuweather Main (178.9242ms)
+[200] Worker #0: Weather Main (293.6955ms)
+[200] Worker #1: Fast Main (210.6793ms)
+[403] Worker #2: Monster Main (1.144873s)
+[200] Worker #6: Wunderground Main (571.3689ms)
+[403] Worker #2: Whatismyipaddress Main (204.1066ms)
+[200] Worker #5: Freelancer Main (1.1708887s)
+[403] Worker #2: Downforeveryoneorjustme Main (147.5613ms)
+[200] Worker #8: Speedtest Main (838.4071ms)
+[DOWN] Worker #2: Uptime Main (https://uptime.com) - Gagal
+[403] Worker #8: Pingdom Main (250.3256ms)
+[DOWN] Worker #5: Isitdownrightnow Main (https://isitdownrightnow.com) - Gagal
+[200] Worker #3: Guru Main (1.7888541s)
+[DOWN] Worker #3: Youtube Api (https://api.youtube.com) - Gagal
+[200] Worker #1: Dnsleaktest Main (1.1110373s)
+[404] Worker #5: Google Api (237.1609ms)
+[200] Worker #9: Peopleperhour Main (1.8614113s)
+[DOWN] Worker #9: Wikipedia Api (https://api.wikipedia.org) - Gagal
+[403] Worker #3: Facebook Api (283.6309ms)
+[404] Worker #1: Instagram Api (287.0642ms)
+[DOWN] Worker #1: Yahoo Api (https://api.yahoo.com) - Gagal
+[200] Worker #8: Betteruptime Main (595.498ms)
+[DOWN] Worker #8: Apple Api (https://api.apple.com) - Gagal
+[200] Worker #5: Whatsapp Api (398.867ms)
+[200] Worker #6: Iplocation Main (1.3252065s)
+[404] Worker #9: Twitter Api (307.6915ms)
+[404] Worker #3: X Api (312.6951ms)
+[421] Worker #9: Openai Api (139.4915ms)
+[200] Worker #2: Statuspage Main (996.5622ms)
+[200] Worker #9: Github Api (152.3895ms)
+[404] Worker #5: Linkedin Api (366.3378ms)
+[200] Worker #0: Whois Main (2.0317914s)
+[404] Worker #3: Chatgpt Api (305.3381ms)
+[DOWN] Worker #6: Netflix Api (https://api.netflix.com) - Gagal
+[DOWN] Worker #8: Microsoft Api (https://api.microsoft.com) - Gagal
+[400] Worker #3: Bing Api (192.3918ms)
+[403] Worker #1: Amazon Api (821.6814ms)
+[404] Worker #6: Twitch Api (312.7029ms)
+[403] Worker #5: Reddit Api (411.5748ms)
+[DOWN] Worker #6: Kubernetes Api (https://api.kubernetes.io) - Gagal
+[404] Worker #0: Pinterest Api (397.4932ms)
+[DOWN] Worker #6: Python Api (https://api.python.org) - Gagal
+[DOWN] Worker #0: Rust-lang Api (https://api.rust-lang.org) - Gagal
+[DOWN] Worker #0: Npmjs Api (https://api.npmjs.com) - Gagal
+[DOWN] Worker #0: Pypi Api (https://api.pypi.org) - Gagal
+[200] Worker #8: Spotify Api (382.094ms)
+[200] Worker #9: Cloudflare Api (596.3136ms)
+[200] Worker #6: Nodejs Api (209.8433ms)
+[DOWN] Worker #6: Dev Api (https://api.dev.to) - Gagal
+[DOWN] Worker #6: Hashnode Api (https://api.hashnode.com) - Gagal
+[200] Worker #2: Gitlab Api (800.4651ms)
+[DOWN] Worker #2: Aws Api (https://api.aws.amazon.com) - Gagal
+[DOWN] Worker #2: Cloud Api (https://api.cloud.google.com) - Gagal
+[DOWN] Worker #2: Azure Api (https://api.azure.microsoft.com) - Gagal
+[404] Worker #3: Tiktok Api (559.6398ms)
+[200] Worker #8: Stackexchange Api (388.9288ms)
+[404] Worker #0: Stackoverflow Api (498.5694ms)
+[200] Worker #5: Golang Api (657.0459ms)
+[200] Worker #9: Medium Api (551.6081ms)
+[404] Worker #1: Docker Api (827.8146ms)
+[DOWN] Worker #1: Grafana Api (https://api.grafana.com) - Gagal
+[DOWN] Worker #1: Elastic Api (https://api.elastic.co) - Gagal
+[400] Worker #8: Heroku Api (356.1078ms)
+[DOWN] Worker #1: Hashicorp Api (https://api.hashicorp.com) - Gagal
+[DOWN] Worker #8: Terraform Api (https://api.terraform.io) - Gagal
+[DOWN] Worker #1: Ansible Api (https://api.ansible.com) - Gagal
+[DOWN] Worker #1: Jenkins Api (https://api.jenkins.io) - Gagal
+[200] Worker #0: Vercel Api (305.8397ms)
+[200] Worker #6: Digitalocean Api (652.4587ms)
+[DOWN] Worker #4: Kraken Main (https://kraken.com) - Gagal
+[403] Worker #1: Detik Api (96.0154ms)
+[404] Worker #2: Linode Api (626.1484ms)
+[404] Worker #8: Kompas Api (153.8754ms)
+[DOWN] Worker #7: Kucoin Main (https://kucoin.com) - Gagal
+[DOWN] Worker #2: Kumparan Api (https://api.kumparan.com) - Gagal
+[DOWN] Worker #8: Idntimes Api (https://api.idntimes.com) - Gagal
+[DOWN] Worker #7: Suara Api (https://api.suara.com) - Gagal
+[DOWN] Worker #2: Sindonews Api (https://api.sindonews.com) - Gagal
+[DOWN] Worker #7: Antaranews Api (https://api.antaranews.com) - Gagal
+[403] Worker #1: Cnnindonesia Api (143.2853ms)
+[DOWN] Worker #7: Shopee Api (https://api.shopee.co.id) - Gagal
+[403] Worker #8: Republika Api (127.6917ms)
+[404] Worker #2: Tokopedia Api (136.3865ms)
+[200] Worker #4: Tempo Api (221.1728ms)
+[403] Worker #0: Tribunnews Api (298.8445ms)
+[DOWN] Worker #2: Traveloka Api (https://api.traveloka.com) - Gagal
+[DOWN] Worker #0: Gojek Api (https://api.gojek.com) - Gagal
+[DOWN] Worker #0: Dana Api (https://api.dana.id) - Gagal
+[404] Worker #6: Liputan6 Api (339.1444ms)
+[404] Worker #1: Bukalapak Api (170.6896ms)
+[DOWN] Worker #1: Mandiri Api (https://api.mandiri.co.id) - Gagal
+[403] Worker #3: Vultr Api (858.4218ms)
+[404] Worker #7: Blibli Api (174.1066ms)
+[403] Worker #4: Tiket Api (152.2289ms)
+[502] Worker #2: Grab Api (145.4128ms)
+[404] Worker #8: Lazada Api (185.5586ms)
+[DOWN] Worker #7: Kaskus Api (https://api.kaskus.co.id) - Gagal
+[DOWN] Worker #8: Kemenkeu Api (https://api.kemenkeu.go.id) - Gagal
+[DOWN] Worker #8: Itb Api (https://api.itb.ac.id) - Gagal
+[DOWN] Worker #8: Ugm Api (https://api.ugm.ac.id) - Gagal
+[404] Worker #0: Ovo Api (182.6907ms)
+[200] Worker #3: Bri Api (112.2473ms)
+[401] Worker #8: Ui Api (95.0941ms)
+[DOWN] Worker #8: Undip Api (https://api.undip.ac.id) - Gagal
+[200] Worker #7: Polinema Api (161.4754ms)
+[DOWN] Worker #8: Unair Api (https://api.unair.ac.id) - Gagal
+[DOWN] Worker #8: Telkom Api (https://api.telkom.co.id) - Gagal
+[404] Worker #4: Kemkes Api (196.6751ms)
+[DOWN] Worker #8: Indosatooredoo Api (https://api.indosatooredoo.com) - Gagal
+[200] Worker #0: Its Api (161.7864ms)
+[DOWN] Worker #8: Smartfren Api (https://api.smartfren.com) - Gagal
+[DOWN] Worker #0: Bbc Api (https://api.bbc.com) - Gagal
+[403] Worker #3: Ub Api (174.7693ms)
+[DOWN] Worker #3: Theguardian Api (https://api.theguardian.com) - Gagal
+[404] Worker #5: Netlify Api (1.0172465s)
+[200] Worker #7: Ipb Api (231.2226ms)
+[DOWN] Worker #7: Forbes Api (https://api.forbes.com) - Gagal
+[401] Worker #3: Reuters Api (193.9747ms)
+[DOWN] Worker #3: Techcrunch Api (https://api.techcrunch.com) - Gagal
+[DOWN] Worker #3: Theverge Api (https://api.theverge.com) - Gagal
+[DOWN] Worker #3: Wired Api (https://api.wired.com) - Gagal
+[DOWN] Worker #3: Engadget Api (https://api.engadget.com) - Gagal
+[404] Worker #0: Nytimes Api (373.3743ms)
+[DOWN] Worker #0: Huffpost Api (https://api.huffpost.com) - Gagal
+[DOWN] Worker #0: Cnbc Api (https://api.cnbc.com) - Gagal
+[422] Worker #0: Foxnews Api (132.5439ms)
+[200] Worker #9: Datadoghq Api (1.5240541s)
+[403] Worker #5: Bloomberg Api (825.9077ms)
+[400] Worker #7: Wsj Api (819.2877ms)
+[404] Worker #9: Quora Api (367.5734ms)
+[403] Worker #3: Arstechnica Api (1.0419768s)
+[DOWN] Worker #3: Discord Api (https://api.discord.com) - Gagal
+[403] Worker #0: Nationalgeographic Api (808.8149ms)
+[DOWN] Worker #0: Archive Api (https://api.archive.org) - Gagal
+[404] Worker #5: Dropbox Api (466.408ms)
+[200] Worker #9: Zoom Api (395.339ms)
+[DOWN] Worker #5: Adobe Api (https://api.adobe.com) - Gagal
+[404] Worker #5: Salesforce Api (181.2478ms)
+[DOWN] Worker #5: Oracle Api (https://api.oracle.com) - Gagal
+[200] Worker #7: Slack Api (727.0207ms)
+[404] Worker #0: Canva Api (397.903ms)
+[DOWN] Worker #0: Amd Api (https://api.amd.com) - Gagal
+[DOWN] Worker #2: Kemdikbud Api (https://api.kemdikbud.go.id) - Gagal
+[DOWN] Worker #9: Figma Api (https://api.figma.com) - Gagal
+[DOWN] Worker #9: Mozilla Api (https://api.mozilla.org) - Gagal
+[DOWN] Worker #9: Apache Api (https://api.apache.org) - Gagal
+[403] Worker #7: Intel Api (358.677ms)
+[404] Worker #5: Ibm Api (418.5201ms)
+[DOWN] Worker #0: Nvidia Api (https://api.nvidia.com) - Gagal
+[200] Worker #0: Khanacademy Api (139.1282ms)
+[404] Worker #5: Udemy Api (399.3101ms)
+[200] Worker #3: Telegram Api (1.2327758s)
+[DOWN] Worker #3: W3schools Api (https://api.w3schools.com) - Gagal
+[200] Worker #7: Edx Api (573.6827ms)
+[404] Worker #5: Codecademy Api (157.8262ms)
+[DOWN] Worker #7: Tutorialspoint Api (https://api.tutorialspoint.com) - Gagal
+[DOWN] Worker #5: Leetcode Api (https://api.leetcode.com) - Gagal
+[404] Worker #0: Freecodecamp Api (449.676ms)
+[DOWN] Worker #0: Harvard Api (https://api.harvard.edu) - Gagal
+[504] Worker #2: Cisco Api (1.2443826s)
+[DOWN] Worker #2: Ox Api (https://api.ox.ac.uk) - Gagal
+[DOWN] Worker #2: Cam Api (https://api.cam.ac.uk) - Gagal
+[DOWN] Worker #2: Berkeley Api (https://api.berkeley.edu) - Gagal
+[DOWN] Worker #2: Hackthebox Api (https://api.hackthebox.com) - Gagal
+[404] Worker #9: Coursera Api (1.3290984s)
+[403] Worker #5: Mit Api (763.1978ms)
+[503] Worker #7: Hackerrank Api (828.1704ms)
+[200] Worker #3: Geeksforgeeks Api (950.6924ms)
+[DOWN] Worker #6: Bca Api (https://api.bca.co.id) - Gagal
+[DOWN] Worker #1: Bni Api (https://api.bni.co.id) - Gagal
+[DOWN] Worker #4: Xl Api (https://api.xl.co.id) - Gagal
+[DOWN] Worker #8: Cnn Api (https://api.cnn.com) - Gagal
+[DOWN] Worker #0: Stanford Api (https://api.stanford.edu) - Gagal
